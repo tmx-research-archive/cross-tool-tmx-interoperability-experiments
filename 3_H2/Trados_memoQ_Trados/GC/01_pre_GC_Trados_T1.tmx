@@ -1,0 +1,1188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-CA" srclang="en-CA" creationdate="20260514T180350Z" creationid="MACBOOK\xxxx">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">GC_Trados_T1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>WHEREAS <bpt i="1" type="1" x="2" />it is desirable in<ept i="1" /> the public interest of Canada to acquire and preserve the great historic battlefields at Quebec, restoring so far as possible their principal features, so as to make them a <bpt i="2" type="2" x="1" />Canadian National Park<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>CONSIDÉRANT <bpt i="1" type="1" x="2" />qu’il est à désirer<ept i="1" /> dans l’intérêt public du Canada d’acquérir et de conserver les grands champs de bataille historiques de Québec, de rétablir autant que possible dans les grandes lignes leur physionomie originaire et de les convertir en un <bpt i="2" type="2" x="1" />parc national<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Whereas <bpt i="1" type="1" x="2" />considerable portions of these grounds<ept i="1" /> are already vested in <bpt i="2" type="2" x="1" />His Majesty<ept i="2" /> for the military or other public purposes of Canada;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Considérant <bpt i="1" type="1" x="2" />que ces terrains<ept i="1" /> sont déjà en grande partie la propriété de <bpt i="2" type="2" x="1" />Sa Majesté<ept i="2" /> pour les besoins militaires ou autres usages publics du Canada;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />Whereas<ept i="1" /> <bpt i="2" type="2" x="1" />it is anticipated<ept i="2" /> that, in addition to the appropriation of public moneys of Canada hereby authorized, the various provincial governments, as well as municipal or other bodies, and many private individuals, will contribute generously to the aforesaid project;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Considérant<ept i="1" /> qu’<bpt i="2" type="2" x="1" />il est à prévoir<ept i="2" /> qu’en outre du crédit sur les fonds publics du Canada autorisé par la présente loi, les différents gouvernements provinciaux, de même que des corporations municipales et autres, et nombre de particuliers, vont souscrire généreusement au dit projet;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />And whereas it is expedient<ept i="1" /> to provide for the constitution of a commission for the acquisition, management and control of the said battlefields <bpt i="2" type="2" x="2" />subject to the provisions of this Act<ept i="2" />, and the moneys contributed for the said purposes;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Et considérant qu’il est à propos<ept i="1" /> de prendre des mesures pour constituer une commission chargée de l’acquisition, de l’administration et du gouvernement des dits champs de bataille <bpt i="2" type="2" x="2" />sous le régime de la présente loi<ept i="2" />, ainsi que de la gestion des fonds contribués pour les dits objets;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Therefore <bpt i="1" type="1" x="2" />His Majesty<ept i="1" />,<ph x="3" type="2" /> by and with the advice and consent of the <bpt i="3" type="3" x="1" />Senate and House of Commons<ept i="3" /> of Canada, enacts as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>À ces causes, <bpt i="1" type="1" x="2" />Sa Majesté<ept i="1" />,<ph x="3" type="2" /> de l’avis et du consentement du <bpt i="3" type="3" x="1" />Sénat et de la Chambre des communes<ept i="3" /> du Canada, décrète :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The Governor in Council may appoint seven Commissioners,<ph x="3" type="1" /> who shall hold office <bpt i="2" type="2" x="2" />during the pleasure of the Governor in Council<ept i="2" />, and who, with any additional Commissioners who may be appointed under the authority of this Act, shall be a body politic and corporate under the name of “<bpt i="3" type="3" x="1" />The National Battlefields Commission<ept i="3" />”.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le Gouverneur en conseil peut nommer sept commissaires,<ph x="3" type="1" /> qui conservent leur charge <bpt i="2" type="2" x="2" />durant le bon plaisir du Gouverneur en conseil<ept i="2" />, et qui, avec tous commissaires additionnels qui peuvent être nommés sous l’autorité de la présente loi, sont constitués en une corporation sous le nom de « <bpt i="3" type="3" x="1" />Commission des champs de bataille nationaux<ept i="3" /> ».</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />Government of any province<ept i="1" /> which contributes a sum not less than one hundred thousand dollars to the purposes of <bpt i="2" type="2" x="1" />the commission<ept i="2" /> shall be entitled to appoint a commissioner,<ph x="3" type="3" /> and such commissioner shall hold office during the pleasure of the Government of the province.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Le gouvernement de toute<ept i="1" /> province qui contribue une somme d’au moins cent mille dollars aux objets de <bpt i="2" type="2" x="1" />la Commission<ept i="2" /> a droit de nommer un commissaire,<ph x="3" type="3" /> et ce commissaire est révocable par le gouvernement de la province.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>If the <bpt i="1" type="1" x="2" />Government of the United Kingdom<ept i="1" />,<ph x="3" type="2" /> or of any self-governing colony of the Empire, contributes a sum not less than one hundred thousand dollars to the purposes of <bpt i="3" type="3" x="1" />the commission<ept i="3" />, such Government shall be entitled to appoint a commissioner, and such commissioner shall hold office during the pleasure of the Government which appoints him.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Si le <bpt i="1" type="1" x="2" />gouvernement du Royaume-Uni<ept i="1" /> ou de quelque colonie autonome de l’Empire,<ph x="3" type="2" /> contribue une somme de cent mille dollars au moins aux objets de <bpt i="3" type="3" x="1" />la Commission<ept i="3" />, ce gouvernement a droit de nommer un commissaire, et ce commissaire est révocable par le gouvernement dont il tient sa nomination.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Governor in Council<ept i="1" /> shall name one of the commissioners appointed <bpt i="2" type="2" x="2" />by the Governor in Council<ept i="2" /> to be chairman of the commission,<ph x="3" type="3" /> and he shall hold office as such chairman during pleasure.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Le Gouverneur en conseil<ept i="1" /> nomme un des commissaires nommés <bpt i="2" type="2" x="2" />par le Gouverneur en conseil<ept i="2" /> président de la Commission,<ph x="3" type="3" /> et ce dernier est révocable en sa qualité de Président.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Governor in Council<ept i="1" /> shall appoint a competent person to be secretary of the commission,<ph x="3" type="2" /> who shall hold office during pleasure, and receive such salary as is fixed <bpt i="3" type="3" x="2" />by the Governor in Council<ept i="3" /> and provided by Parliament.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="3" x="2" />Le Gouverneur en conseil<ept i="1" /> nomme une personne compétente secrétaire de la Commission,<ph x="3" type="2" /> et ce secrétaire est révocable et touche le traitement qui est déterminé par <bpt i="3" type="1" x="1" />le Gouverneur en conseil<ept i="3" /> et voté par le Parlement.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="1" />commissioners, including the chairman,<ept i="1" /> shall serve without remuneration,<ph x="3" type="2" /> but shall be entitled to receive their actual disbursements for expenses necessarily incurred by them in the discharge of their powers or duties <bpt i="3" type="3" x="2" />under this Act<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Les commissaires, y compris le Président,<ept i="1" /> remplissent leur charge sans rémunération,<ph x="3" type="2" /> mais ont droit de toucher ce qu’ils déboursent réellement pour les dépenses nécessaires qu’ils font dans l’exercice des pouvoirs et fonctions que leur attribue la <bpt i="3" type="3" x="2" />présente loi<ept i="3" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The commission may purchase,<ph x="3" type="1" /> acquire and hold the lands or immovable property in <bpt i="2" type="2" x="1" />the city of Quebec<ept i="2" />, or <bpt i="3" type="3" x="2" />in the vicinity thereof<ept i="3" />, where the great battles were fought, or which were occupied by the various commands of the respective armies upon the battlefields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>La Commission peut acheter,<ph x="3" type="1" /> acquérir et posséder les terrains ou autres propriétés immobilières dans <bpt i="2" type="2" x="1" />la cité de Québec<ept i="2" />, ou <bpt i="3" type="3" x="2" />les environs<ept i="3" />, où se sont livrées les grandes batailles ou qui étaient occupés par les différents corps des armées respectives sur les champs de bataille.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>If the purchase of any land or immovable property, or of any interest therein, is authorized under the provisions of this Act, and the commission is unable to agree with the owner as to the purchase, acquisition or transfer thereof, or the price to be paid therefor, or if a person interested therein is incapable of making a deed or conveyance, or if for any other reason the commission deems it advisable to proceed compulsorily, proceedings may be taken under <bpt i="1" type="1" x="1" />The Expropriation Act<ept i="1" /> for the acquisition of the said land, immovable property, or interest therein and for the vesting of the title thereof in the commission;<ph x="3" type="2" /> and in any such case, except as herein otherwise provided, all the provisions of <bpt i="3" type="3" x="2" />The Expropriation Act<ept i="3" /> shall, unless there is something repugnant in the subject or context, apply, mutatis mutandis, to such lands or immovable property and to the acquisition thereof and to the determination of the compensation and damages.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Si l’achat de quelque terrain ou immeuble, ou de quelque intérêt dans ledit immeuble, est autorisé sous le régime de la présente loi, et si la Commission ne peut s’entendre avec le propriétaire sur l’achat, l’acquisition ou la cession dudit immeuble, ou sur le prix à payer, ou si une personne y intéressée est incapable d’en donner titre ou cession, ou si pour quelque autre raison la Commission juge à propos de procéder par voie de contrainte, des procédures peuvent être instituées sous l’empire de <bpt i="1" type="1" x="1" />la Loi des expropriations<ept i="1" /> pour l’acquisition du terrain ou immeuble, ou de l’intérêt y afférent, et pour en faire attribuer le titre à la Commission;<ph x="3" type="2" /> et dans tout pareil cas, sauf disposition contraire de la présente loi, toutes les dispositions de <bpt i="3" type="3" x="2" />la Loi des expropriations<ept i="3" /> doivent, à moins qu’il y ait quelque chose d’inconciliable dans le sujet ou le contexte, s’appliquer mutatis mutandis à ces terrains ou immeubles, à leur acquisition, ainsi qu’à la détermination de l’indemnité et des dommages.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A plan and description purporting to be signed by the chairman and secretary of the commission shall have the same effect <bpt i="1" type="1" x="2" />for the purposes of this Act<ept i="1" /> as a plan and description signed by the Minister or deputy minister has under <bpt i="2" type="2" x="1" />The Expropriation Act<ept i="2" /> ;<ph x="3" type="3" /> and for all purposes of the proceedings authorized by this Act the provisions of The Expropriation Act shall, unless there is something repugnant in the subject or context, be construed with the substitution of the commission for His Majesty, for the Crown and for the Minister.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Un plan et une description paraissant être signés par le président et le secrétaire de la Commission ont, <bpt i="1" type="1" x="2" />pour les objets de la présente loi<ept i="1" />, le même effet qu’ont un plan et une description signés par le Ministre ou le sous-ministre sous le régime de <bpt i="2" type="2" x="1" />la Loi des expropriations<ept i="2" /> ;<ph x="3" type="3" /> et pour toutes les procédures autorisées par la présente loi, les dispositions de la Loi des expropriations doivent, à moins qu’il y ait quelque chose d’inconciliable dans le sujet ou le contexte, être interprétées en substituant la Commission à Sa Majesté, à la Couronne et au Ministre.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>In any case in which land or property is acquired,<ph x="3" type="1" /> taken or injuriously affected <bpt i="2" type="2" x="2" />under the authority of this Act<ept i="2" />, <bpt i="3" type="3" x="1" />the Attorney General of Canada<ept i="3" /> may cause an information in the name of His Majesty, upon the relation of the commission, to be exhibited in the Federal Court of Canada, and the provisions of The Expropriation Act shall, unless there is something repugnant in the subject or context, apply to such information and the proceedings thereunder in the same manner, mutatis mutandis , as they apply to the like informations and proceedings on behalf of His Majesty under the said Act: Provided that His Majesty shall not in any case be liable for any compensation, damages, costs or charges incurred in such proceedings, but the relators shall be subject to the payment of such compensation, damages, costs or charges as may be adjudged by the court.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Dans tous les cas où un terrain ou un immeuble est acquis,<ph x="3" type="1" /> pris ou détérioré <bpt i="2" type="2" x="2" />sous l’empire de la présente loi<ept i="2" />, le <bpt i="3" type="3" x="1" />procureur général du Canada<ept i="3" /> peut, sur la demande de la Commission, instituer une action au nom de Sa Majesté devant la Cour fédérale du Canada, et les dispositions de la Loi des expropriations doivent, à moins qu’il y ait quelque chose d’inconciliable dans le sujet ou le contexte, s’appliquer à cette action et aux procédures qui en découlent de la même manière, mutatis mutandis, qu’elles s’appliquent à de pareilles actions et procédures instituées au nom de Sa Majesté sous l’empire de ladite loi : cependant, Sa Majesté n’est en aucun cas passible des indemnités, dommages, frais ou charges découlant de ces procédures, mais les demandeurs sont exposés au paiement des indemnités, dommages, frais ou charges que peut adjuger le tribunal.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The commission may,<ept i="1" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission peut<ept i="1" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>receive and <bpt i="1" type="1" x="2" />expend any moneys, whether<ept i="1" /> appropriated by <bpt i="2" type="2" x="1" />Parliament<ept i="2" /> or the legislatures or contributed by any municipal or other body or private individual, for the purposes authorized by this Act;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />recevoir et employer toutes<ept i="1" /> sommes affectées par le <bpt i="2" type="2" x="1" />Parlement<ept i="2" /> ou les législatures ou contribuées par quelque corporation municipale ou autre ou par des particuliers, aux objets visés par la présente loi;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />remove<ept i="1" /> <bpt i="2" type="2" x="1" />all buildings and other structures<ept i="2" /> upon the lands taken or acquired, and erect a museum and such monuments and statues or other works as seem fitting or appropriate;<ph x="3" type="3" /> and</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />enlever<ept i="1" /> <bpt i="2" type="2" x="1" />tous bâtiments et toutes autres constructions<ept i="2" /> sur les terrains pris ou acquis, et y construire un musée et ériger des monuments, statues ou autres ouvrages qui sont jugés convenables;<ph x="3" type="3" /> et</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>lay <bpt i="1" type="1" x="2" />out and construct on<ept i="1" /> or through the said lands such avenues,<ph x="3" type="2" /> drives or paths, gardens, squares or other works as are desirable for the improvement of the grounds and the conversion thereof into a national park of a character to commemorate worthily the great events which happened there.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />tracer et construire<ept i="1" /> sur lesdits terrains des avenues,<ph x="3" type="2" /> des promenades et des sentiers, des jardins, squares ou autres ouvrages qu’elle juge à propos pour l’embellissement du terrain et la conversion de celui-ci en un parc national digne de commémorer les grands événements qui s’y sont déroulés.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The Minister of Finance is hereby authorized to pay out of <bpt i="1" type="1" x="1" />the Consolidated Revenue Fund<ept i="1" /> of Canada to the Commission the sum of one hundred and twenty-five thousand dollars a year for a period not exceeding four years from the 1st day of April,<ph x="3" type="2" /> 1954, to be expended by the Commission for the purposes and <bpt i="3" type="3" x="2" />subject to the provisions of this Act<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le ministre des Finances est par les présentes autorisé à verser à la Commission, sur <bpt i="1" type="1" x="1" />le Fonds du revenu consolidé<ept i="1" /> du Canada, la somme de cent vingt-cinq mille dollars par année pendant une période d’au plus quatre ans à compter du 1er avril<ph x="3" type="2" /> 1954, que la Commission doit dépenser aux fins et <bpt i="3" type="3" x="2" />sous réserve des dispositions de la présente loi<ept i="3" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The amount payable to <bpt i="1" type="1" x="1" />the Commission<ept i="1" /> under this section shall be paid in four equal quarterly instalments on the first day of April,<ph x="3" type="2" /> July, October, and January, respectively, in each <bpt i="3" type="3" x="2" />fiscal year<ept i="3" /> but the first of such quarterly instalments shall be paid forthwith upon the commencement of this section.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le montant payable à <bpt i="1" type="1" x="1" />la Commission<ept i="1" /> selon le présent article doit être acquitté en quatre versements trimestriels égaux,<ph x="3" type="2" /> le premier jour d’avril, de juillet, d’octobre et de janvier, respectivement, de chaque <bpt i="3" type="3" x="2" />année financière<ept i="3" />, mais le premier de ces versements trimestriels doit être effectué dès l’entrée en vigueur du présent article.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Governor in Council<ept i="1" /> is authorized to appropriate <bpt i="2" type="2" x="2" />for the purposes of the commission<ept i="2" /> all the lands or immovable property<ph x="3" type="3" /> now vested in His Majesty for the military or other public purposes of Canada and forming part of the aforesaid battlefields.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le <bpt i="1" type="1" x="1" />Gouverneur en conseil<ept i="1" /> est autorisé à affecter <bpt i="2" type="2" x="2" />aux objets de la Commission<ept i="2" /> tous les immeubles<ph x="3" type="3" /> que possède Sa Majesté pour les besoins militaires ou autres usages publics du Canada et qui font partie desdits champs de bataille.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>There shall be established in <bpt i="1" type="1" x="1" />the Consolidated Revenue Fund<ept i="1" /> a special account,<ph x="3" type="2" /> to be known as the <bpt i="3" type="3" x="2" />National Battlefields Trust Account<ept i="3" />, to which shall be credited</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Au <bpt i="1" type="1" x="1" />Fonds du revenu consolidé<ept i="1" /> est ouvert un compte spécial,<ph x="3" type="2" /> appelé <bpt i="3" type="3" x="2" />Compte de fiducie des champs de bataille nationaux<ept i="3" />, auquel sont crédités</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>all money received by <bpt i="1" type="1" x="1" />the Commission<ept i="1" /> <bpt i="2" type="2" x="2" />by gift, bequest or otherwise<ept i="2" />,<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>toutes les sommes d’argent reçues par <bpt i="1" type="1" x="1" />la Commission<ept i="1" /> <bpt i="2" type="2" x="2" />par donation, legs ou autrement<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>all money received by <bpt i="1" type="1" x="1" />the Commission<ept i="1" /> as interest on any securities or as rent on any property acquired by the Commission <bpt i="2" type="2" x="2" />by gift, bequest or otherwise<ept i="2" />,<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>toutes les sommes d’argent reçues par <bpt i="1" type="1" x="1" />la Commission<ept i="1" /> à titre d’intérêt sur toutes valeurs ou à titre de loyer de tous biens acquis par la Commission <bpt i="2" type="2" x="2" />par donation, legs ou autrement<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>all money received by <bpt i="1" type="1" x="1" />the Commission<ept i="1" /> from the sale of any real or personal property acquired by the Commission <bpt i="2" type="2" x="2" />by gift, bequest or otherwise<ept i="2" />, and<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>toutes les sommes d’argent reçues par <bpt i="1" type="1" x="1" />la Commission<ept i="1" /> et provenant de la vente de tous biens meubles ou immeubles acquis par la Commission <bpt i="2" type="2" x="2" />par donation, legs ou autrement<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />an amount representing interest on<ept i="1" /> the balance from time to time to the credit of the Account,<ph x="3" type="2" /> at such rates and calculated in such manner as <bpt i="3" type="3" x="1" />the Governor in Council<ept i="3" /> prescribes,</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />un montant représentant l’intérêt<ept i="1" /> sur le solde créditeur périodique du Compte,<ph x="3" type="2" /> calculé aux taux et selon la méthode que prescrit <bpt i="3" type="3" x="1" />le gouverneur en conseil<ept i="3" />,</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>and to <bpt i="1" type="1" x="2" />which shall be charged<ept i="1" /> such amounts as are authorized by <bpt i="2" type="2" x="1" />the Commission<ept i="2" /> to be expended for the purpose for which such money or property was given, bequeathed or otherwise made available to the Commission.<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />et auquel sont débités<ept i="1" /> les montants que <bpt i="2" type="2" x="1" />la Commission<ept i="2" /> autorise à dépenser aux fins pour lesquelles ces sommes ou biens ont été donnés, légués ou autrement mis à la disposition de la Commission.<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No <bpt i="1" type="1" x="2" />lands or immovable property<ept i="1" /> shall be purchased or acquired by<ph x="3" type="2" /> <bpt i="3" type="3" x="1" />the Commission<ept i="3" /> except with the previous approval of Parliament.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Aucun <bpt i="1" type="1" x="2" />terrain ou bien immobilier<ept i="1" /> ne doit être acheté ou acquis par<ph x="3" type="2" /> <bpt i="3" type="3" x="1" />la Commission<ept i="3" /> sauf avec l’assentiment préalable du Parlement.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No expenditure shall be made and no liabilities shall be incurred by the Commission until funds sufficient to cover such expenditure or liabilities shall be at its disposal for the purposes of this Act, and the Commission shall, before entering upon any work of improvement or construction, or any other work involving the expenditure of money, upon the lands taken or acquired <bpt i="1" type="1" x="2" />under the authority of this Act<ept i="1" />, cause to be prepared plans of the proposed works showing locations, and submit the said plans for the approval of <bpt i="2" type="2" x="1" />the Governor in Council<ept i="2" />, and the Commission shall furnish such further descriptions or information to the Governor in Council as are required;<ph x="3" type="3" /> and no such works shall be proceeded with until approved by the Governor in Council.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Nulle dépense ne doit être faite, et nul engagement ne doit être pris par la Commission tant que les fonds suffisants pour faire honneur à ces dépenses ou engagements ne seront pas à sa disposition pour les objets de la présente loi, et la Commission doit, avant d’entreprendre quelques ouvrages d’amélioration ou de construction, ou quelque ouvrage qui entraîne des emplois d’argent, sur les terrains pris ou acquis <bpt i="1" type="1" x="2" />sous l’autorité de la présente loi<ept i="1" />, faire dresser des plans des ouvrages proposés en indiquant leur situation, et soumettre ces plans à l’approbation du <bpt i="2" type="2" x="1" />Gouverneur en conseil<ept i="2" />, et la Commission doit fournir tels autres renseignements ou descriptions que le Gouverneur en conseil peut exiger;<ph x="3" type="3" /> et nuls pareils ouvrages ne doivent être faits tant que le Gouverneur en conseil ne les aura pas agréés.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />The commission shall render to<ept i="1" /> <bpt i="2" type="2" x="1" />the Minister of Finance<ept i="2" />, on or before the first day of June in each year, detailed statements of all its receipts and expenditures up to the thirty-first day of March in that year;<ph x="3" type="3" /> and copies of such statements shall be laid before Parliament by the Minister of Finance within the first fourteen days of the next following session.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />La Commission doit fournir<ept i="1" /> annuellement au <bpt i="2" type="2" x="1" />ministre des Finances<ept i="2" />, le ou avant le premier jour de juin, des états détaillés de toutes ses recettes et dépenses jusqu’au trente et unième jour de mars précédent;<ph x="3" type="3" /> et des copies desdits états sont présentées au Parlement dans les quatorze premiers jours de la session suivante.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />commission shall, whenever required<ept i="1" /> by <bpt i="2" type="2" x="1" />the Minister of Finance<ept i="2" />, render detailed accounts of its receipts and expenditures for such period or to such date as he names;<ph x="3" type="3" /> and all books of account, records, bank books and papers of the commission shall at all times be open to the inspection of the Minister of Finance, or of any person authorized by him.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Chaque fois qu’elle en<ept i="1" /> est requise par <bpt i="2" type="2" x="1" />le ministre des Finances<ept i="2" />, la Commission doit rendre des comptes détaillés de ses recettes et emplois d’argent pour la période et jusqu’à la date qu’il indique;<ph x="3" type="3" /> et tous les livres de comptes, les livrets de banque, les écritures et papiers de la Commission doivent en tout temps être à la disposition du ministre des Finances ou de toute personne par lui autorisée à les examiner.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>All accounts, receipts and expenditures of the commission shall be subject to the audit of the <bpt i="1" type="1" x="2" />Auditor General<ept i="1" /> as in the case of public moneys,<ph x="3" type="2" /> and subject to the provisions, so far as applicable, of <bpt i="3" type="3" x="1" />The Consolidated Revenue and Audit Act<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Les comptes, recettes et dépenses de la Commission sont tous assujettis à l’audition de l’<bpt i="1" type="1" x="2" />auditeur général<ept i="1" /> comme lorsqu’il s’agit des fonds publics,<ph x="3" type="2" /> et subordonnés aux dispositions, en tant qu’elles sont applicables, de la <bpt i="3" type="3" x="1" />Loi du revenu consolidé et de l’audition<ept i="3" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No <bpt i="1" type="1" x="2" />member of<ept i="1" /> <bpt i="2" type="2" x="1" />the commission<ept i="2" /> shall have, nor shall the secretary have,<ph x="3" type="3" /> any contract with the commission, or be pecuniarily interested, directly or indirectly, in any contract or work with regard to which any portion of the moneys at the credit of the commission is being or is to be expended.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Nul <bpt i="1" type="1" x="2" />membre de<ept i="1" /> <bpt i="2" type="2" x="1" />la Commission<ept i="2" /> ne peut être partie à un contrat avec la Commission, non plus que le secrétaire de cette dernière,<ph x="3" type="3" /> soit directement soit indirectement, dans aucun contrat ou ouvrage à l’égard duquel s’emploie ou doit être employée quelque partie des fonds au crédit de la Commission.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Whereas the <bpt i="1" type="1" x="2" />present year not only<ept i="1" /> will, it is hoped, mark the setting apart of the battlefields as herein authorized, but is also the tercentenary of the founding of the city of Quebec and the establishment of French government and civilization upon the shores of the St. Lawrence by Samuel de Champlain, and it is desirable that these events be appropriately commemorated: Be it therefore enacted that the commission may, under the authority and direction of <bpt i="2" type="2" x="1" />the Governor in Council<ept i="2" />, arrange for and carry out at a convenient time a celebration, in every respect worthy and fit, of the tercentenary of the founding of Quebec by Champlain, and the dedication of the battlefields to the general public purposes of Canada as provided by this Act;<ph x="3" type="3" /> and that the commission may, subject to the sanction and approval of the Governor in Council, expend and lay out, for the purposes of the said celebration, such portion of the sum of three hundred thousand dollars hereinbefore appropriated as is authorized by the commission subject to such sanction and approval.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Considérant que non seulement<ept i="1" /> l’année actuelle va marquer, il est à espérer, la consécration des champs de bataille selon que l’autorise la présente loi, mais que cette année est encore le trois-centième anniversaire de la fondation de la cité de Québec et de l’établissement du gouvernement français et de la civilisation sur les bords du Saint-Laurent par Samuel de Champlain, et qu’il est à désirer que ces événements soient commémorés ainsi qu’il convient; il est en conséquence décrété que la Commission peut, sous l’autorité et la direction du <bpt i="2" type="2" x="1" />Gouverneur en conseil<ept i="2" />, organiser et réaliser à une époque convenable une célébration solennelle et en tout point digne, du trois-centième anniversaire de la fondation de Québec par Champlain, ainsi que la dédicace des champs de bataille aux usages publics du Canada prévus par la présente loi;<ph x="3" type="3" /> et la Commission peut employer pour la dite célébration, subordonnément à la sanction et à l’approbation du Gouverneur en conseil, telle partie de la somme de trois cent mille dollars ci-dessus affectée qu’autorise la Commission subordonnément à cette sanction et à cette approbation.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The National Battlefields Commission<ept i="1" /> may,<ph x="3" type="2" /> subject to the approval of the Governor in Council, purchase, acquire and hold the lands and immovable property set forth and described in the schedule to this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission des champs de bataille nationaux<ept i="1" /> peut,<ph x="3" type="2" /> subordonnément à l’agrément du Gouverneur en conseil, acheter, acquérir et posséder les terrains et immeubles énumérés et décrits dans l’annexe de la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A tract of land on the north side of the <bpt i="1" type="1" x="1" />Ste. Foye road<ept i="1" />,<ph x="3" type="2" /> belonging to the heirs Tourangeau and others, (site of the battle of Ste. Foye, — a part of which surrounds the lot of land upon which is erected a monument to the memory of <bpt i="3" type="3" x="2" />General Lévis<ept i="3" /> and General Murray, — “Monument des Braves”), and which is bounded as follows, viz.:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Une étendue de terre du côté nord du <bpt i="1" type="1" x="1" />chemin de Sainte-Foye<ept i="1" />,<ph x="3" type="2" /> appartenant aux héritiers Tourangeau et autres (l’endroit où a eu lieu la bataille de Sainte-Foye, dont une partie entoure le terrain sur lequel est érigé le monument à la mémoire du <bpt i="3" type="3" x="2" />général de Lévis<ept i="3" /> et du général Murray, — le monument des Braves), et qui est borné comme suit, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>In <bpt i="1" type="1" x="2" />front to the south<ept i="1" /> by the <bpt i="2" type="2" x="1" />Ste. Foye road<ept i="2" />,<ph x="3" type="3" /> in rear to the north by the brow of the hill ( Cime du Cap ), on one side towards the east by lot number twenty-five, belonging to I. A. Fortin, and on the other side towards the west by lot number twenty-eight, belonging to the representatives of the late J. W. Dunscomb.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />En front, vers le sud<ept i="1" />, par le <bpt i="2" type="2" x="1" />chemin de Sainte-Foye<ept i="2" />,<ph x="3" type="3" /> en arrière, vers le nord, par la cîme du cap, d’un côté, vers l’est, par le lot numéro vingt-cinq, appartenant à I.-A. Fortin, et de l’autre côté, vers l’ouest, par le lot numéro vingt-huit, appartenant aux représentants de feu J. W. Dunscomb.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />Which said tract of<ept i="1" /> land was formerly known and distinguished as lot number twenty-six (26) upon the official cadastral plan for the Banlieue,<ph x="3" type="2" /> parish of <bpt i="3" type="3" />Notre Dame<ept i="3" /> de Quebec, but which lot has since been subdivided, and the said tract of land is now known and distinguished by different numbers, all of which are subdivisions of the said original lot number twenty-six, together with and including all or any part of the said original lot number twenty-six, as the same is now laid out and shown on the plan of the subdivision of the said lot number twenty-six as streets or avenues, and including all or any dwelling houses or other buildings of any kind erected on the said tract of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Laquelle étendue de<ept i="1" /> terre était ci-devant connue et désignée comme lot numéro vingt-six (26) du plan cadastral officiel pour la banlieue,<ph x="3" type="2" /> paroisse de Notre-Dame-de-Québec, mais le dit lot a depuis été subdivisé et la dite étendue de terre est aujourd’hui connue et désignée sous différents numéros qui tous représentent des subdivisions du dit lot primitif numéro vingt-six, y compris la totalité ou toute partie du dit lot primitif numéro vingt-six, portée au plan de la subdivision du dit lot numéro vingt-six, en rues et avenues, et y compris les maisons et autres constructions de toute espèce érigées sur la dite étendue de terre.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A strip of land on the south side of the said <bpt i="1" type="1" x="1" />Ste. Foye road<ept i="1" />,<ph x="3" type="2" /> to be taken off the front or northerly end of lots numbers sixty-eight (68), seventy-five (75) and seventy-six (76) and seventy-nine (79) on the cadastral plan for the said Banlieue, parish of <bpt i="3" type="3" x="2" />Notre Dame<ept i="3" /> de Quebec, the said strip of land to be of such a depth as, when the same is added to the present width of the said Ste. Foye road, will make the said road seventy-five feet wide in that locality.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Une lisière de terrain située du côté sud du dit <bpt i="1" type="1" x="1" />chemin de Sainte-Foye<ept i="1" />, à détacher du front ou de l’extrémité nord des lots soixante-huit (68), soixante-quinze (75), soixante-seize (76) et soixante et dix-neuf (79) du plan cadastral de la dite banlieue, paroisse de <bpt i="2" type="3" x="2" />Notre-Dame<ept i="2" />-de-Québec;<ph x="3" type="2" /> la dite lisière devant être de la profondeur nécessaire pour porter, dans cette localité, la largeur du dit chemin de Sainte-Foye à soixante-quinze pieds quand la dite lisière sera ajoutée à la largeur actuelle du dit chemin.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="2" />strip of land on<ept i="1" /> the east side of the Belvedere road,<ph x="3" type="2" /> to be taken off the west side of the said lot number sixty-eight (68) above mentioned, and off the front or west end of lots numbers sixty-nine (69), seventy (70), seventy-one (71), seventy-two (72) and seventy-three (73) on the cadastral plan for the said Banlieue, parish of <bpt i="3" type="3" x="1" />Notre Dame<ept i="3" /> de Quebec, the said strip of land to be of such a depth as, when the same is added to the present width of the said Belvedere road, will make the said road seventy-five feet wide from one end of the same to the other.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Une lisière de terrain<ept i="1" /> située du côté est du chemin du Belvédère, à détacher du côté ouest du lot numéro soixante-huit (68) ci-dessus mentionné, et du front ou extrémité ouest des lots numéros soixante-neuf (69), soixante et dix (70), soixante et onze (71), soixante-douze (72) et soixante-treize (73) du plan cadastral de la dite banlieue, paroisse de <bpt i="2" type="3" x="1" />Notre-Dame<ept i="2" />-de-Québec;<ph x="3" type="2" /> la dite lisière devant être de la profondeur nécessaire pour porter, d’un bout à l’autre de la dite lisière, la largeur du dit chemin du Belvédère à soixante-quinze pieds, quand cette dernière sera ajoutée à la largeur actuelle du dit chemin.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="2" />strip of land on<ept i="1" /> the north side of the <bpt i="2" type="2" x="1" />St. Louis road<ept i="2" /> (starting from the junction of the said Belvedere road and the said St. Louis road and running in a westerly direction) to be taken off the south side of lot number two hundred and twenty-six (226) — the front or south end of lot number two hundred and twenty (220) — and about one-third of the whole frontage or south end of lot number two hundred and eighteen (218) upon the cadastral plan for the Parish of St. Colomba de Sillery. The said strip of land to be of such a depth as,<ph x="3" type="3" /> when the same is added to the present width of the said St. Louis road, will make the said road seventy-five feet wide in that locality, — with any houses or buildings to be found on the said strip of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Une lisière de terrain<ept i="1" /> située du côté nord du <bpt i="2" type="2" x="1" />chemin Saint-Louis<ept i="2" /> (à partir du point de jonction du dit chemin du Belvédère et du dit chemin Saint-Louis et allant dans la direction de l’ouest) à détacher du côté sud du lot numéro deux cent vingt-six (226), du front ou extrémité sud du lot numéro deux cent vingt (220) et d’environ un tiers du front ou extrémité sud du lot deux cent dix-huit (218) du plan cadastral de la paroisse de Saint-Colomban-de-Sillery;<ph x="3" type="3" /> la dite lisière devant être de la profondeur nécessaire pour porter, dans cette localité, la largeur du dit chemin Saint-Louis à soixante-quinze pieds, quand la dite lisière sera ajoutée à la largeur actuelle du dit chemin, avec les maisons et autres constructions qui se trouvent sur la dite lisière de terrain.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="2" />strip of land on<ept i="1" /> the west side of “Gilmour’s Hill” (which leads from the <bpt i="2" type="2" x="1" />St. Louis road<ept i="2" /> to “Wolfe’s Cove”) starting from the junction of said “Gilmour’s Hill” with the said St. Louis road and running in a southerly and south easterly direction as far as the brow of the hill ( Cime du Cap ) — the said strip of land to be taken off the easterly side of lots numbers two hundred and fourteen (214) — two hundred and seventeen (217) and two hundred and twenty-eight (228),<ph x="3" type="3" /> upon the cadastral plan for the said Parish of St. Colomba de Sillery. The said strip of land to be of such a depth as, when the same is added to the present width of “Gilmour’s Hill”, will make the said hill seventy-five feet wide in that locality, together with any houses or other buildings erected on the said strip of land.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Une lisière de terrain<ept i="1" /> située du côté ouest de la côte dite Gilmour’s-Hill (qui conduit du <bpt i="2" type="2" x="1" />chemin Saint-Louis<ept i="2" /> à Wolfe’s-Cove), à partir du point de jonction de la dite côte et du dit chemin de Saint-Louis et allant dans la direction du sud et au sud-est jusqu’à la cîme du cap — la dite lisière de terrain à être détachée du côté est des lots numéros deux cent quatorze (214), deux cent dix-sept (217) et deux cent vingt-huit (228), du plan cadastral de la dite paroisse de Saint-Colomban-de-Sillery;<ph x="3" type="3" /> la dite lisière de terrain devant être de la profondeur nécessaire pour porter, dans cette localité, la largeur de la côte dite Gilmour’s-Hill à soixante-quinze pieds, quand la dite lisière sera ajoutée à la largeur actuelle de la dite côte; avec les maisons et autres constructions qui se trouvent sur la dite lisière de terrain.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="2" />strip of land seventy-five<ept i="1" /> feet in width by the whole length of the “Marchmont Property”,<ph x="3" type="2" /> now the “Merici Convent” on the west side of the <bpt i="3" type="3" x="1" />Plains of Abraham<ept i="3" /> — which was formerly distinguished as lot number two hundred and twenty-seven (227) upon the cadastral plan for the said Parish of St. Colomba de Sillery but which is now subdivided into numerous lots, — the said strip of land to be taken as close as may be found to be practicable to the brow of the cliff ( Cime du Cap ) — and also the whole of the irregular tract of land which will lie between the said strip of land when laid out and the said brow of the hill or Cime du Cap.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Une lisière de terrain<ept i="1" /> d’une largeur de soixante-quinze pieds sur toute la longueur de la propriété de Marchmont, aujourd’hui le Couvent de Mérici, du côté ouest des <bpt i="2" type="3" x="1" />plaines d’Abraham<ept i="2" />, ci-devant connue et désignée comme lot numéro deux cent vingt-sept (227) du plan cadastral de la dite paroisse de Saint-Colomban-de-Sillery, lequel lot est aujourd’hui subdivisé en de nombreux lots, la dite lisière de terrain à prendre aussi près que possible de la cîme du cap;<ph x="3" type="2" /> et, aussi, la totalité de l’étendue irrégulière de terrain qui sera située entre la dite lisière de terrain, quand le tracé en sera effectué, et la dite cîme du cap.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A tract of land comprising several lots of land with houses and other buildings erected thereon in the neighbourhood of “Wolfe’s Monument”,<ph x="3" type="1" /> to the east of the <bpt i="2" type="2" x="1" />Plains of Abraham<ept i="2" />, which is bounded as follows: — In front towards the north by St. Louis street or <bpt i="3" type="3" x="2" />La Grande Allée<ept i="3" />, in rear towards the south by Monument street (on which street Wolfe’s Monument is erected), on one side towards the east by lot number one hundred and fifty-three and on the other side towards the west by the Plains of Abraham, with the streets intersecting or adjoining same, namely: Wolfe street and Monument street, — the said tract of land comprising the lots numbers one hundred and fifty-two, one hundred and fifty-four, one hundred and fifty-five, one hundred and fifty-six, one hundred and sixty-one, one hundred and sixty-one A, one hundred and sixty-one B, one hundred and sixty-two, one hundred and sixty-three, one hundred and sixty-three A, one hundred and sixty-three B, and one hundred and sixty-four (152, 154, 155, 156, 161, 161A, 161B, 162, 163, 163A, 163B, and 164), on the cadastral plan for the Banlieue Parish of Notre Dame de Quebec.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Une étendue de terrain comprenant plusieurs lots avec maisons et autres constructions y érigées, dans le voisinage du monument de Wolfe, à l’est des <bpt i="1" type="2" x="1" />plaines d’Abraham<ept i="1" />, et bornée comme suit : en front, vers le nord, par la rue Saint-Louis ou <bpt i="2" type="3" x="2" />la Grande-Allée<ept i="2" />, en arrière, vers le sud, par la rue du Monument (sur laquelle est érigé le monument de Wolfe), d’un côté, vers l’est, par le lot numéro cent cinquante-trois, et de l’autre côté, vers l’ouest, par les plaines d’Abraham, avec les rues coupant ou longeant le dit terrain, savoir : la rue Wolfe et la rue du Monument;<ph x="3" type="1" /> la dite étendue de terre comprenant les lots numéros cent cinquante-deux, cent cinquante-quatre, cent cinquante-cinq, cent cinquante-six, cent soixante et un, cent soixante et un A, cent soixante et un B, cent soixante-deux, cent soixante-trois, cent soixante-trois A, cent soixante-trois B et cent soixante-quatre (152, 154, 155, 156, 161, 161A, 161B, 162, 163, 163A, 163B et 164), du plan cadastral de la banlieue, paroisse de Notre-Dame-de-Québec.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A piece of land forming the southerly part of lot number four thousand four hundred and forty-one (4441) on the cadastral plan for <bpt i="1" type="1" x="2" />Montcalm Ward<ept i="1" /> of <bpt i="2" type="2" x="1" />the city of Quebec<ept i="2" />,<ph x="3" type="3" /> containing from five thousand to eight thousand feet in superficies, and a piece of land forming the southerly and south westerly part of lot number four thousand four hundred and forty-two (4442) on the said cadastral plan, containing from twelve thousand to fifteen thousand feet in superficies (said properties belonging to The Ladies Protestant Home of Quebec and the Heirs Lampson respectively).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Un morceau de terre étant la partie sud du lot numéro quatre mille quatre cent quarante et un (4441) du plan cadastral du <bpt i="1" type="1" x="2" />quartier Montcalm<ept i="1" /> de <bpt i="2" type="2" x="1" />la cité de Québec<ept i="2" />,<ph x="3" type="3" /> contenant de cinq mille à huit mille pieds en superficie, et un morceau de terre étant la partie sud et sud-ouest du lot numéro quatre mille quatre cent quarante-deux (4442) du dit plan cadastral, contenant de douze mille à quinze mille pieds en superficie (les dites propriétés appartenant respectivement aux dames dites The Ladies Protestant Home of Quebec et aux héritiers Lampson).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The lot of land originally bearing the number four thousand four hundred and forty (4440) on the cadastral plan for <bpt i="1" type="1" x="2" />Montcalm Ward<ept i="1" /> of <bpt i="2" type="2" x="1" />the city of Quebec<ept i="2" />,<ph x="3" type="3" /> which is now subdivided into numerous lots, belonging to The Seminary of Quebec and commonly called “The Seminary Farm”, with the house and other buildings thereon erected.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le lot de terre portant originairement le numéro quatre mille quatre cent quarante (4440) du plan cadastral du <bpt i="1" type="1" x="2" />quartier Montcalm<ept i="1" /> de <bpt i="2" type="2" x="1" />la cité de Québec<ept i="2" />,<ph x="3" type="3" /> aujourd’hui subdivisé en de nombreux lots, appartenant au Séminaire de Québec et communément appelé la Ferme du Séminaire, avec la maison et autres constructions y érigées.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A small piece of land forming the south-east corner of the property of <bpt i="1" type="1" x="1" />The Church<ept i="1" /> of <bpt i="2" type="2" x="2" />England Female Orphan Asylum<ept i="2" /><ph x="3" type="3" /> (which adjoins the said Seminary Farm).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Une petite étendue de terre formant l’angle sud-est de la propriété <bpt i="1" type="1" x="1" />The Church<ept i="1" /> of <bpt i="2" type="2" x="2" />England Female Orphan Asylum<ept i="2" /><ph x="3" type="3" /> (laquelle est contiguë à la dite ferme du Séminaire).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />QUEBEC, July 15th, 1908.<ept i="1" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Québec, 15 juillet 1908.<ept i="1" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The National Battlefields Commission<ept i="1" /> may, subject to the approval of the Governor in Council,<ph x="3" type="2" /> purchase, acquire and hold the whole or part of the lands and immovable properties hereinafter described, namely:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission des champs de bataille nationaux<ept i="1" /> peut, subordonnément à l’approbation du Gouverneur en conseil,<ph x="3" type="2" /> acheter, acquérir et posséder la totalité ou partie des terrains et immeubles ci-après désignés, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The tract of land on the south side of the street called “La <bpt i="1" type="1" x="2" />Grande Allée<ept i="1" />”,<ph x="3" type="2" /> in <bpt i="3" type="3" x="1" />the city of Quebec<ept i="3" />, granted to “The Quebec Skating Club” in virtue of chapter 14 of the statutes of 1891, and fully described therein, with all the buildings erected thereon:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le lopin ou lot de terre situé du côté sud de la rue appelée « la <bpt i="1" type="1" x="2" />Grande Allée<ept i="1" /> », en <bpt i="2" type="3" x="1" />la cité de Québec<ept i="2" />, concédé au « Club des patineurs de Québec » sous l’autorité du chapitre 14 des lois de 1891, et formellement désigné en la dite loi, avec toutes les constructions y érigées;<ph x="3" type="2" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />parcels of land bearing<ept i="1" /> numbers 96,<ph x="3" type="2" /> 97, 98, 99 and 66 of the subdivision of cadastral lot number 4437 of Montcalm ward of <bpt i="3" type="3" x="1" />the city of Quebec<ept i="3" />, including all or any dwelling houses, the tower commonly known as “Martello Tower number two”, or other buildings of any kind erected on these parcels of land:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />les morceaux ou lopins<ept i="1" /> de terre portant les numéros 96, 97, 98, 99 et 66<ph x="3" type="2" /> de la subdivision du lot cadastral numéro 4437 du quartier Montcalm de <bpt i="3" type="3" x="1" />la cité de Québec<ept i="3" />, y compris la totalité ou une partie quelconque des habitations, la tour communément connue sous l’appellation « tour Martello », numéro deux, ou les autres constructions d’une nature quelconque érigées sur ces lopins de terre;</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The portions of the lots numbers four thousand four hundred and forty-one (4441) and four thousand four hundred and forty-two (4442) on the cadastral plan for Montcalm ward of <bpt i="1" type="1" x="1" />the city of Quebec<ept i="1" />, comprised between the two pieces of land respectively forming part of these lots belonging to <bpt i="2" type="2" x="2" />The Ladies Protestant Home<ept i="2" /> of Quebec and the Heirs Lampson respectively and mentioned in article 8 of the Schedule to chapter 58 of the statutes of 1908, and a parallel to the northwest side of Tower street drawn across the said lots four thousand four hundred and forty-one and four thousand four hundred and forty-two, from the easternmost corner of lot number four thousand four hundred and forty-three of the cadastre of the said Montcalm ward of the city of Quebec;<ph x="3" type="3" /> and the buildings which may be erected thereon:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Les parties des lots numéros quatre mille quatre cent quarante et un (4441) et quatre mille quatre cent quarante-deux (4442) du plan cadastral du quartier Montcalm de <bpt i="1" type="1" x="1" />la cité de Québec<ept i="1" />, comprises entre les deux morceaux de terre formant respectivement partie de ces lots appartenant au <bpt i="2" type="2" x="2" />Ladies’ Protestant Home<ept i="2" /> of Quebec et aux héritiers Lampson, respectivement, et désignées au paragraphe 8 de l’annexe du chapitre 58 des lois de 1908, et une ligne parallèle au côté nord-ouest de la rue de la Tour (Tower), tirée à travers les dits lots quatre mille quatre cent quarante et un et quatre mille quatre cent quarante-deux, à partir de l’angle extrême est du lot numéro quatre mille quatre cent quarante-trois du cadastre du dit quartier Montcalm de la cité de Québec;<ph x="3" type="3" /> et les constructions qui peuvent y avoir été érigées;</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>All the lots or parcels of land, portions of lots or parcels of land and projected streets — with any building which may be erected thereon — hereinafter mentioned in this paragraph and lying in <bpt i="1" type="1" x="1" />the city of Quebec<ept i="1" />, outside or surrounding a certain tract of land upon which is erected the Quebec jail and its dependencies and which tract of land, also <bpt i="2" type="2" x="2" />in the city of Quebec<ept i="2" />, reserved by the Government of the province of Quebec for the purposes of the Quebec jail, is bounded towards the northwest by a line — southeast of Monument Street — in the northeasterly prolongation of the northwest boundary of lots numbers one hundred and sixty — A (160 — A) and one hundred and sixty — B (160 — B) of the cadastre of the Banlieue, parish of Notre-Dame-de-Quebec, towards the southeast by a line parallel to the lower or rear wall of the jail yard and one hundred and fifty feet distant — to the southeast — from the end towers of this wall, towards the northeast by the northeast side of the passage or street along the northeast wall of said jail yard and the fence in prolongation of same, and towards the southwest by a line parallel to the north-easternmost boundary of the Plains of Abraham and at a distance of one hundred and ten feet to the northeast therefrom, and covers a superficial area of three hundred and forty-two thousand nine hundred and fifty square feet more or less, English measure: — the northeast part of lot number four thousand four hundred and forty-seven (4447) bounded towards the southwest by the said tract of land reserved for the purposes of the Quebec jail, lot number four thousand four hundred and forty-eight (4448), those portions of lots numbers four thousand four hundred and forty-nine (4449) and four thousand four hundred and fifty (4450) which lie outside of the said tract of land reserved for the purposes of the Quebec jail;<ph x="3" type="3" /> lots numbers four thousand four hundred and fifty-one (4451), four thousand four hundred and fifty-two (4452), four thousand four hundred and fifty-three (4453), four thousand four hundred and fifty-four (4454), four thousand four hundred and fifty-five (4455), four thousand four hundred and fifty-six (4456), four thousand four hundred and fifty-seven (4457), four thousand four hundred and fifty-eight (4458), four thousand four hundred and fifty-nine (4459), four thousand four hundred and sixty (4460), four thousand four hundred and sixty-one (4461), four thousand four hundred and sixty-two (4462), four thousand four hundred and sixty-three (4463), four thousand four hundred and sixty-four (4464), four thousand four hundred and sixty-five (4465), four thousand four hundred and sixty-six (4466), four thousand four hundred and sixty-seven (4467), four thousand four hundred and sixty-eight (4468), four thousand four hundred and sixty-nine (4469) and four thousand four hundred and seventy (4470) of the cadastre of Montcalm ward of the city of Quebec — and also all the intervening projected streets shown on the cadastral plan of the said Montcalm ward of the city of Quebec, mentioned in the descriptions of these lots contained in the book of reference of said cadastre and lying outside of the aforesaid tract of land reserved by the Government of the province of Quebec for the purposes of the Quebec jail: — also the portion of lot number one hundred and sixty (160) lying partly to the northwest and partly to the southwest of the aforesaid tract of land reserved for the purposes of the Quebec jail, the portion of lot number one hundred and fifty-nine (159) lying to the southwest of the same tract of land, the portion of lot number one hundred and sixty-six (166) lying partly to the southwest and partly to the southeast of the same tract of land, said lots numbers one hundred and sixty — A and one hundred and sixty — B (160 — A and 160 — B) and the portions of the two projected streets respectively to the northwest (Tower street) and to the southeast (street unnamed) of the aforesaid portion of lot number one hundred and fifty-nine, all the cadastre of the Banlieue, parish of Notre-Dame-de-Quebec:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>tous les lots ou lopins de terre, parties de lots ou lopins de terre et rues projetées, — avec les constructions quelles qu’elles soient qui peuvent y avoir été érigées — ci-après mentionnés au présent paragraphe et situés en <bpt i="1" type="1" x="1" />la cité de Québec<ept i="1" />, à l’extérieur ou dans l’entourage d’un certain morceau de terre sur lequel est construite la prison de Québec et ses dépendances et lequel morceau de terre, aussi <bpt i="2" type="2" x="2" />en la cité de Québec<ept i="2" />, réservé par le gouvernement de la province de Québec, pour les fins de la prison de Québec, est borné vers le nord-ouest par une ligne — au sud-est de la rue du Monument — dans le prolongement nord-est de la limite nord-ouest des lots numéros cent soixante-A (160-A) et cent soixante-B (160-B) du cadastre de la Banlieue, paroisse de Notre-Dame-de-Québec, vers le sud-est par une ligne parallèle au mur inférieur ou mur d’arrière de la cour de la prison et à cent cinquante pieds de distance — vers le sud-est — des tours de l’extrémité de ce mur, vers le nord-est par le côté nord-est du passage ou de la rue qui longe le mur nord-est de la dite cour de prison, et la clôture qui en fait le prolongement, et vers le sud-ouest par une ligne parallèle à la borne extrême nord-est des plaines d’Abraham et à une distance de cent dix pieds au nord-est des dites plaines, et couvre une superficie totale de trois cent quarante-deux mille neuf cent cinquante pieds carrés, plus ou moins, mesure anglaise;<ph x="3" type="3" /> la partie nord-est du lot numéro quatre mille quatre cent quarante-sept (4447) bornée vers le sud-ouest par le dit lopin de terre réservé pour les fins de la prison de Québec, le lot numéro quatre mille quatre cent quarante-huit (4448), les parties des lots numéros quatre mille quatre cent quarante-neuf (4449) et quatre mille quatre cent cinquante (4450) qui sont situées en dehors du dit lopin de terre réservé pour les fins de la prison de Québec; les lots numéros quatre mille quatre cent cinquante et un (4451), quatre mille quatre cent cinquante-deux (4452), quatre mille quatre cent cinquante-trois (4453), quatre mille quatre cent cinquante-quatre (4454), quatre mille quatre cent cinquante-cinq (4455), quatre mille quatre cent cinquante-six (4456), quatre mille quatre cent cinquante-sept (4457), quatre mille quatre cent cinquante-huit (4458), quatre mille quatre cent cinquante-neuf (4459), quatre mille quatre cent soixante (4460), quatre mille quatre cent soixante-un (4461), quatre mille quatre cent soixante-deux (4462), quatre mille quatre cent soixante-trois (4463), quatre mille quatre cent soixante-quatre (4464), quatre mille quatre cent soixante-cinq (4465), quatre mille quatre cent soixante-six (4466), quatre mille quatre cent soixante-sept (4467), quatre mille quatre cent soixante-huit (4468), quatre mille quatre cent soixante-neuf (4469) et quatre mille quatre cent soixante-dix (4470) du cadastre du quartier Montcalm de la cité de Québec, et aussi toutes les rues projetées qui les séparent et indiquées sur le plan cadastral du dit quartier Montcalm de la cité de Québec, mentionnés dans les descriptions de ces lots contenues dans le livre de renvoi du dit cadastre et situés en dehors du susdit lopin de terre réservé par le gouvernement de la province de Québec pour les fins de la prison de Québec; aussi la partie du lot numéro cent soixante (160) qui est située partie au nord-ouest et partie au sud-ouest du susdit lopin de terre réservé pour les fins de la prison de Québec, la partie du lot numéro cent cinquante-neuf qui est située au sud-ouest du même lopin de terre, la partie du lot numéro cent soixante-six (166) qui est située partie au sud-ouest et partie au sud-est du dit lopin de terre, les dits lots numéros cent soixante-A et cent soixante-B (160-A et 160-B) et les parties des deux rues respectivement projetées au nord-ouest (rue de la Tour) et au sud-est (rue non nommée) de la susdite partie du lot numéro cent cinquante-neuf, le tout du cadastre de la Banlieue, paroisse de Notre-Dame-de-Québec;</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />lots or parcels of<ept i="1" /> land situated in the vicinity of “Martello Tower,<ph x="3" type="2" /> number four”, in <bpt i="3" type="3" x="1" />the city of Quebec<ept i="3" />, and bearing respectively numbers one hundred and eighty-eight (188), one hundred and eighty-nine (189) and one hundred and ninety-one (191) of the subdivisions of lot number three thousand seven hundred and fifty-five (3755) of the cadastre of St. John’s ward of the said city of Quebec.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />les lots ou morceaux<ept i="1" /> de terre situés dans le voisinage de la « tour Martello,<ph x="3" type="2" /> numéro quatre », en <bpt i="3" type="3" x="1" />la cité de Québec<ept i="3" /> et portant respectivement les numéros cent quatre-vingt-huit (188), cent quatre-vingt-neuf (189) et cent quatre-vingt-onze (191) des subdivisions du lot numéro trois mille sept cent cinquante-cinq (3755) du cadastre du quartier Saint-Jean de la dite cité de Québec.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The National Battlefields Commission<ept i="1" /> may, subject to the approval of the Governor in Council, advance, out of the National Battlefields fund, a sum of money not to exceed fifteen thousand dollars to the municipality of the town of Montcalm or its successors, in order to enable the said municipality to purchase certain lands necessary for the Quebec Battlefields Park, that is to say for the opening of an avenue between St. Louis Road and Ste. Foye Road, in line with the “Monument des Braves”, in the town of Montcalm, which lands are to be, after their purchase by the said municipality, gratuitously ceded and transferred to the said Commission;<ph x="3" type="2" /> the sum so advanced by the said Commission to be repaid to the latter by the said municipality or its successors in annual consecutive instalments bearing interest at the rate of three per cent per annum, the term over which the instalments may be spread not to exceed thirty years.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission des champs de bataille nationaux<ept i="1" /> peut, subordonnément à l’approbation du Gouverneur en conseil, avancer, à même le fonds des champs de bataille nationaux, une somme d’au plus quinze mille dollars à la corporation de la ville de Montcalm ou à ses successeurs, pour permettre à la dite corporation d’acheter certains terrains nécessaires pour le parc des champs de bataille de Québec, c’est-à-dire pour l’ouverture d’une avenue entre le chemin Saint-Louis et le chemin Sainte-Foye, en ligne avec le « monument des Braves », dans la ville de Montcalm, lesquels terrains devront, après leur achat par la dite corporation, être gratuitement cédés et transférés à la dite Commission;<ph x="3" type="2" /> la somme ainsi avancée par la dite Commission sera remboursée à cette dernière par la dite corporation ou par ses successeurs par versements annuels consécutifs portant intérêt au taux de trois pour cent par année, le terme pendant lequel les versements pourront être prolongés ne devant pas dépasser trente ans.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Commission<ept i="1" /> may <bpt i="2" type="2" x="2" />make<ept i="2" /> by-laws for:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission<ept i="1" /> peut <bpt i="2" type="2" x="2" />établir<ept i="2" /> des règlements pour :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the direction, conduct and management of <bpt i="1" type="1" x="1" />the Commission<ept i="1" /> and its property, <bpt i="2" type="2" x="2" />real and personal<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>la direction, la conduite et la gestion de <bpt i="1" type="1" x="1" />la Commission<ept i="1" />, et de ses biens <bpt i="2" type="2" x="2" />immobiliers et mobiliers<ept i="2" />;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="1" type="1" x="2" />time and place for<ept i="1" /> holding meetings of <bpt i="2" type="2" x="1" />the Commission<ept i="2" />, the calling of meetings, the quorum thereat, and the procedure at such meetings;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />la date et l’endroit<ept i="1" /> de réunion des assemblées de <bpt i="2" type="2" x="1" />la Commission<ept i="2" />, la convocation des assemblées, leur quorum, et la procédure à suivre à ces assemblées;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="1" type="1" x="2" />appointment, control, duties and<ept i="1" /> removal of all officers,<ph x="3" type="2" /> guardians, agents, technical and professional advisers, and employees of <bpt i="3" type="3" x="1" />the Commission<ept i="3" />, and their remuneration;</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />la nomination, le contrôle,<ept i="1" /> les devoirs et le renvoi de tous officiers,<ph x="3" type="2" /> gardiens, agents, conseillers techniques et professionnels, et employés de <bpt i="3" type="3" x="1" />la Commission<ept i="3" />, et leur rémunération;</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="1" type="1" x="2" />maintenance, preservation, and protection<ept i="1" /> of the lands, works and other property belonging to <bpt i="2" type="2" x="1" />the Commission<ept i="2" /> or under its jurisdiction, control or care, and the access of the public thereto;<ph x="3" type="3" /></seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />l’entretien, la conservation et<ept i="1" /> la protection de tous terrains, ouvrages et autres biens appartenant à <bpt i="2" type="2" x="1" />la Commission<ept i="2" /> ou sujets à sa juridiction, son contrôle ou ses soins, et l’accès du public auxdits terrains, ouvrages et biens;<ph x="3" type="3" /></seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>the <bpt i="1" type="1" x="2" />prevention of injury to<ept i="1" /> or encroachments<ph x="3" type="2" /> upon the property of <bpt i="3" type="3" x="1" />the Commission<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />l’empêchement de dommages ou<ept i="1" /> l’empiétement<ph x="3" type="2" /> sur les biens de <bpt i="3" type="3" x="1" />la Commission<ept i="3" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every <bpt i="1" type="1" x="1" />person who contravenes a<ept i="1" /> by-law made under this section is liable <bpt i="2" type="2" x="2" />on summary conviction<ept i="2" /><ph x="3" type="3" /> to a fine of not more than two thousand dollars or to imprisonment for six months, or to both.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Quiconque contrevient à quelque<ept i="1" /> règlement édicté en vertu du présent article est passible,<ph x="3" type="3" /> sur déclaration de culpabilité <bpt i="3" type="2" x="2" />par procédure sommaire<ept i="3" />, d’une amende maximale de deux mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>No by-law shall have force or effect until confirmed by <bpt i="1" type="1" x="1" />the Governor in Council<ept i="1" /> and published in The Canada Gazette,<ph x="3" type="2" /> and upon such confirmation and publication any by-law made <bpt i="3" type="3" x="2" />in accordance with this Act<ept i="3" /> shall have the same force and effect as if enacted in this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Aucun règlement n’aura force et effet à moins qu’il ne soit confirmé par <bpt i="1" type="1" x="1" />le Gouverneur en conseil<ept i="1" /> et publié dans la Gazette du Canada,<ph x="3" type="2" /> et advenant telle confirmation et publication tout règlement édicté <bpt i="3" type="3" x="2" />en conformité de la présente loi<ept i="3" /> aura la même force et le même effet que s’il était décrété par la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />whole of “Gilmour’s Hill”<ept i="1" /> (which leads from <bpt i="2" type="2" x="1" />St. Louis road<ept i="2" /><ph x="3" type="3" /> to Wolfe’s Cove).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Toute la « côte Gilmour »<ept i="1" /> (qui conduit du <bpt i="2" type="2" x="1" />chemin Saint-Louis<ept i="2" /><ph x="3" type="3" /> à l’anse du Foulon).</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />A parcel of land covering<ept i="1" /> about 10,<ph x="3" type="2" />000 square feet to be taken from lot number two hundred and twenty-eight (228) upon the cadastral plan for the Parish of St-Colomban-de-Sillery, in the immediate vicinity of said <bpt i="3" type="3" x="1" />Gilmour’s Hill<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Un lopin de terre<ept i="1" /> couvrant environ 10,<ph x="3" type="2" />000 pieds carrés à prendre sur le lot numéro deux cent vingt-huit (228) du plan cadastral de la paroisse de Saint-Colomban-de-Sillery, dans le voisinage immédiat de ladite <bpt i="3" type="3" x="1" />côte Gilmour<ept i="3" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />All the portions of<ept i="1" /> the “<bpt i="2" type="2" x="1" />Marchmont Property<ept i="2" />”,<ph x="3" type="3" /> now the “Merici Convent”, distinguished as lot number two hundred and twenty-seven (227) upon the cadastral plan of the said Parish of St-Colomban-de-Sillery, which are below the brow or the cliff (cime du cap).</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Toutes les parties de<ept i="1" /> la « <bpt i="2" type="2" x="1" />propriété Marchmont<ept i="2" /> »,<ph x="3" type="3" /> maintenant le « couvent Mérici », marquée lot numéro deux cent vingt-sept (227) sur le plan cadastral de ladite paroisse de Saint-Colomban-de-Sillery, qui se trouvent au-dessous de la cîme du cap.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />The whole or portions of<ept i="1" /> lots bearing numbers two hundred and twenty-nine (229),<ph x="3" type="2" /> two hundred and thirty (230) and two hundred and thirty-one (231) upon the cadastral plan of the said Parish of St-Colomban-de-Sillery.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />La totalité ou partie des<ept i="1" /> lots portant les numéros deux cent vingt-neuf (229),<ph x="3" type="2" /> deux cent trente (230) et deux cent trente et un (231) sur le plan cadastral de ladite paroisse de Saint-Colomban-de-Sillery.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>All the <bpt i="1" type="1" x="2" /><bpt i="2" type="2" x="1" />buildings erected<ept i="2" /><ept i="1" /> on the lands or immovable property<ph x="3" type="3" /> mentioned in this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" /><bpt i="2" type="2" x="1" />Tous les bâtiments érigés<ept i="2" /><ept i="1" /> sur les terrains ou immeubles<ph x="3" type="3" /> mentionnés dans la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The National Battlefields Commission<ept i="1" /> may,<ph x="3" type="2" /> subject to the approval of the Governor in Council, purchase, acquire, and hold the whole or part of the lands and immovable property hereinafter described, namely:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />La Commission des champs de bataille nationaux<ept i="1" /> peut,<ph x="3" type="2" /> sous réserve de l’approbation du Gouverneur en conseil, acheter, acquérir et détenir la totalité ou une partie des terrains et biens immobiliers ci-après décrits, savoir :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A tract of land being part of lot No. 232 of the official cadastre of the parish of St. Colomb de Sillery,<ph x="3" type="1" /> County of Quebec, situate at the foot of <bpt i="2" type="2" x="2" />Gilmour Hill<ept i="2" /> and located between the new <bpt i="3" type="3" x="1" />Champlain road<ept i="3" /> and the old Champlain road, containing in area 47,750 square feet, more or less, more particularly described as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Une parcelle de terrain formant partie du lot n o 232 du cadastre officiel de la paroisse de Saint-Colomb de Sillery,<ph x="3" type="1" /> comté de Québec, située au pied de la <bpt i="2" type="2" x="2" />Côte Gilmour<ept i="2" /> et sise entre le nouveau et l’ancien <bpt i="3" type="3" x="1" />chemin Champlain<ept i="3" />, d’une superficie approximative de 47,750 pieds carrés, et plus particulièrement décrite ainsi qu’il suit :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Commencing at the point of intersection of the Southerly side of the old <bpt i="1" type="1" x="1" />Champlain road<ept i="1" /> with the line parallel to and thirty-five feet (35’) distant, <bpt i="2" type="2" x="2" />North Westerly<ept i="2" />, from the centre line of the new Champlain road, the said point of intersection being hereinafter referred to as point A;<ph x="3" type="3" /> thence in a South Westerly direction along a straight line, distant twenty feet (20’) and parallel to the edge of the pavement of the new Champlain road, a distance of three hundred and forty feet (340’) more or less, to a point hereinafter referred to as point B; thence in a South Easterly direction along a straight line at right angle with the preceding line a distance of seventeen feet (17’), more or less; thence in a South Westerly direction along a straight line, in the same direction as the line joining points A and B hereinbefore mentioned, a distance of one hundred and forty feet, (140’) more or less; thence in a South Westerly direction along a straight line making a deflection angle of 20° 45’ to the left with the preceding line a distance of ninety feet (90’), more or less; thence in a Southerly direction along a straight line parallel to and distant twenty feet (20’) Westerly from the Western edge of pavement of the new Champlain road, a distance of two hundred and twenty feet (220’), more or less, to the Eastern side of the old Champlain road; thence in a general North Easterly direction along the said Eastern side and Southern side of the said old Champlain road to the point of commencement.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="2" x="2" />Commençant au point d’intersection<ept i="1" /> du côté sud de l’ancien <bpt i="2" type="1" x="1" />chemin Champlain<ept i="2" /> et de la ligne parallèle à la ligne centrale du nouveau chemin Champlain et distante de trente-cinq (35’) pieds dans une direction nord-ouest, ledit point d’intersection étant ci-après appelé point A;<ph x="3" type="3" /> de là, dans une direction sud-ouest le long d’une ligne droite, distante de vingt (20’) pieds et parallèle à la bordure de la chaussée du nouveau chemin Champlain, sur une distance approximative de trois cent quarante (340’) pieds, jusqu’à un point ci-après appelé point B; de là, dans une direction sud-est, le long d’une ligne droite formant un angle droit avec la ligne précédente sur une distance approximative de dix-sept (17’) pieds; de là, dans une direction sud-ouest le long d’une ligne droite, dans la même direction que celle de la ligne réunissant les points A et B ci-dessus mentionnés, sur une distance approximative de cent quarante (140’) pieds; de là, dans une direction sud-ouest le long d’une ligne droite formant avec la ligne précédente un angle d’écartement de 20° 45’ vers la gauche, sur une distance approximative de quatre-vingt-dix (90’) pieds; de là, dans une direction sud le long d’une ligne droite parallèle à la bordure ouest de la chaussée du nouveau chemin Champlain et distante de vingt (20’) pieds à l’ouest, sur une distance approximative de deux cent vingt (220’) pieds, jusqu’au côté est de l’ancien chemin Champlain; de là, dans une direction généralement nord-est le long dudit côté est et du côté sud dudit ancien chemin Champlain jusqu’au point de départ.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="2" />tract of land being<ept i="1" /> part of the old <bpt i="2" type="2" x="1" />Champlain road<ept i="2" /> in the parish of St. Colomb de Sillery,<ph x="3" type="3" /> County of Quebec, containing in area 14,100 square feet, more or less, and more particularly described as follows:</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Une parcelle de terrain<ept i="1" /> formant partie de l’ancien <bpt i="2" type="2" x="1" />chemin Champlain<ept i="2" /> dans la paroisse de St-Colomb de Sillery,<ph x="3" type="3" /> comté de Québec, d’une superficie approximative de 14,100 pieds carrés, et plus particulièrement décrite comme suit :</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Commencing at the intersection of the old <bpt i="1" type="1" x="1" />Champlain road<ept i="1" /> with the new Champlain road and running in a general <bpt i="2" type="2" x="2" />North Easterly<ept i="2" /> direction to its intersection with the new Champlain road,<ph x="3" type="3" /> bounded towards the North by lot No. 230, towards its North Eastern extremity by the new Champlain road, towards the South, the South East and the East by lot No. 232, towards its South Western extremity by the new Champlain road and towards the West by lot No. 231 and towards the North West by lot No. 231, the creek St. Denis, lot No. 229, the Gilmour Hill and lot No. 230.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="2" x="2" />Commençant à l’intersection de<ept i="1" /> l’ancien <bpt i="2" type="1" x="1" />chemin Champlain<ept i="2" /> et du nouveau chemin Champlain et suivant une direction généralement nord-est jusqu’à son point d’intersection avec le nouveau chemin Champlain,<ph x="3" type="3" /> bornée au nord par le lot n o 230, à son extrémité nord-est par le nouveau chemin Champlain, au sud, au sud-est et à l’est par le lot n o 232, à son extrémité sud-ouest par le nouveau chemin Champlain, à l’ouest par le lot n o 231 et au nord-ouest par le lot n o 231, le ruisseau St-Denis, le lot n o 229, la côte Gilmour et le lot n o 230.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />This Act<ept i="1" /> has as its <bpt i="2" type="2" x="1" />purpose<ept i="2" /> to enhance the accountability and transparency of federal institutions in order<ph x="3" type="3" /> to promote an open and democratic society and to enable public debate on the conduct of those institutions.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />La présente loi<ept i="1" /> a pour <bpt i="2" type="2" x="1" />objet<ept i="2" /> d’accroître la responsabilité et la transparence des institutions de l'État afin de<ph x="3" type="3" /> favoriser une société ouverte et démocratique et de permettre le débat public sur la conduite de ces institutions.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="2" />This Act is also intended<ept i="1" /> to complement and not replace existing procedures for access to government information and is not<ph x="3" type="2" /> intended to limit in any way access to the type of government information that is normally available to the general public.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />En outre, la présente loi<ept i="1" /> vise à compléter les modalités d'accès aux documents de l'administration fédérale;<ph x="3" type="2" /> elle ne vise pas à restreindre l'accès aux renseignements que les institutions fédérales mettent normalement à la disposition du grand public.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every <bpt i="1" type="1" x="2" />person who is a<ept i="1" /> Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the <bpt i="2" type="2" x="1" />Immigration and Refugee Protection Act<ept i="2" /> has a right to and shall,<ph x="3" type="3" /> on request, be given access to any record under the control of a government institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Tout citoyen canadien et<ept i="1" /> tout résident permanent au sens du paragraphe 2(1) de la <bpt i="2" type="2" x="1" />Loi sur l'immigration et la protection des réfugiés<ept i="2" /><ph x="3" type="3" /> ont droit à la communication des documents relevant d’une institution fédérale et peuvent y avoir accès sur demande.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />head of<ept i="1" /> <bpt i="2" type="2" x="1" />a government institution<ept i="2" /> shall, subject to the regulations,<ph x="3" type="3" /> cause to be published, on a periodic basis and in a form appropriate for the purpose, a description of the organization and responsibilities of the institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Le responsable<ept i="1" /> d'<bpt i="2" type="2" x="1" />une institution fédérale<ept i="2" /> est tenu, sous réserve des règlements,<ph x="3" type="3" /> de faire publier périodiquement, sous une forme appropriée, une description de l'organisation et des responsabilités de l'institution.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A request for access to a record under this Part shall be made <bpt i="1" type="1" x="2" />in writing<ept i="1" /><ph x="3" type="2" /> to <bpt i="3" type="3" x="1" />the government institution<ept i="3" /> that has control of the record.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>La demande de communication d'un document se fait <bpt i="1" type="1" x="2" />par écrit<ept i="1" /><ph x="3" type="2" /> auprès de <bpt i="3" type="3" x="1" />l'institution fédérale<ept i="3" /> dont relève le document.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The head of <bpt i="1" type="1" x="1" />a government institution<ept i="1" /> to whom a request for access to a record is made shall,<ph x="3" type="2" /> <bpt i="3" type="3" x="2" />subject to this Act<ept i="3" />, within thirty days after the request is received, give written notice to the person who made the request as to whether or not access to the record or a part thereof will be given.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le responsable de <bpt i="1" type="1" x="1" />l'institution fédérale<ept i="1" /> à qui est faite la demande de communication d'un document est tenu,<ph x="3" type="2" /> <bpt i="3" type="3" x="2" />sous réserve des autres dispositions de la présente loi<ept i="3" />, dans les trente jours suivant la réception de la demande, de donner avis par écrit à la personne qui a fait la demande de ce qu'il sera donné suite ou non à celle-ci.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Where <bpt i="1" type="1" x="2" />access to a record<ept i="1" /> or a part of a record is refused,<ph x="3" type="2" /> <bpt i="3" type="3" x="1" />the head of the government institution<ept i="3" /> shall state in the notice given to the person who made the request the specific provision of this Act on which the refusal is based.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />En cas de refus<ept i="1" /> de communication,<ph x="3" type="2" /> totale ou partielle, d'un document, <bpt i="3" type="3" x="1" />le responsable de l'institution fédérale<ept i="3" /> indique dans l'avis prévu au paragraphe (1) la disposition précise de la présente loi sur laquelle se fonde le refus.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />head of<ept i="1" /> <bpt i="2" type="2" x="1" />a government institution<ept i="2" /> may extend the time limit set out in subsection 7(1) in respect of a request for a record if the request is for a large number of re<ph x="3" type="3" />cords or necessitates a search through a large number of records and meeting the original time limit would unreasonably interfere with the operations of the institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Le responsable<ept i="1" /> d'<bpt i="2" type="2" x="1" />une institution fédérale<ept i="2" /> peut proroger le délai mentionné au paragraphe 7(1) dans le cas où la demande porte sur un grand nombre de documents o<ph x="3" type="3" />u nécessite des recherches dans un grand nombre de documents et où l'observation du délai prévu entraverait de façon sérieuse le fonctionnement de l'institution.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Where <bpt i="1" type="1" x="1" />the head of a government institution<ept i="1" /> gives access to a record or a part of a record,<ph x="3" type="2" /> the head shall give the person who requested access an opportunity to examine the record or part thereof or shall provide the person with a copy thereof.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>En cas de communication totale ou partielle d'un document,<ph x="3" type="2" /> <bpt i="2" type="1" x="1" />le responsable de l'institution fédérale<ept i="2" /> donne à la personne qui en a fait la demande la possibilité d'examiner le document ou lui en remet une copie.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />head of<ept i="1" /> <bpt i="2" type="2" x="1" />a government institution<ept i="2" /> may refuse to disclose any record requested under this Part that contains information that was obtained or prepared by a government institution,<ph x="3" type="3" /> or a part of a government institution, that is an investigative body specified in the regulations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />Le responsable<ept i="1" /> d'<bpt i="2" type="2" x="1" />une institution fédérale<ept i="2" /> peut refuser la communication de documents contenant des renseignements obtenus ou préparés par une institution fédérale,<ph x="3" type="3" /> ou par une subdivision d'une telle institution, qui constitue un organisme d'enquête désigné par règlement.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The head of <bpt i="1" type="1" x="1" />a government institution<ept i="1" /> shall refuse to disclose any record requested under<ph x="3" type="2" /> this Part that contains <bpt i="3" type="3" x="2" />personal information<ept i="3" /> as defined in section 3 of the Privacy Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le responsable d'une <bpt i="1" type="1" x="1" />institution fédérale<ept i="1" /> est tenu de refuser la communication de documents contenant les<ph x="3" type="2" /> <bpt i="3" type="3" x="2" />renseignements personnels<ept i="3" /> visés à l'article 3 de la Loi sur la protection des renseignements personnels.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The head of <bpt i="1" type="1" x="1" />a government institution<ept i="1" /> may refuse to disclose any record<ph x="3" type="2" /> requested under this Part that contains <bpt i="3" type="3" x="2" />trade secrets<ept i="3" /> of a third party.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Le responsable d'<bpt i="1" type="1" x="1" />une institution fédérale<ept i="1" /> peut refuser la communication<ph x="3" type="2" /> de documents contenant des <bpt i="3" type="3" x="2" />secrets industriels<ept i="3" /> d'un tiers.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Information Commissioner<ept i="1" /> shall receive and investigate complaints from persons who have been refused access<ph x="3" type="2" /> to a record requested under this Part.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Le Commissaire à l'information<ept i="1" /> reçoit les plaintes déposées par les personnes qui se sont vu refuser la communication de documents<ph x="3" type="2" /> qu'elles avaient demandés en vertu de la présente partie.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A complaint under this Act shall be made to <bpt i="1" type="1" x="1" />the Information Commissioner<ept i="1" /><ph x="3" type="2" /> <bpt i="3" type="3" x="2" />in writing<ept i="3" /> unless the Commissioner authorizes otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>La plainte prévue par la présente loi doit être déposée <bpt i="1" type="3" x="2" />par écrit<ept i="1" /> auprès du <bpt i="2" type="1" x="1" />Commissaire à l'information<ept i="2" />,<ph x="3" type="2" /> à moins que celui-ci n'autorise une autre forme de dépôt.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Information Commissioner<ept i="1" /> may,<ph x="3" type="2" /> in the course of an investigation of a complaint, examine any record to which this Act applies that is under the control of a government institution.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Au cours de son enquête,<ph x="3" type="2" /> <bpt i="2" type="1" x="1" />le Commissaire à l'information<ept i="2" /> peut prendre connaissance de tout document relevant d'une institution fédérale et auquel s'applique la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Notwithstanding any other Act of Parliament,<ph x="3" type="1" /> <bpt i="2" type="2" x="1" />the Information Commissioner<ept i="2" /> may, during the investigation of any complaint, examine any record to which this Act applies.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Nonobstant toute autre loi fédérale,<ph x="3" type="1" /> <bpt i="2" type="2" x="1" />le Commissaire à l'information<ept i="2" /> peut, au cours de son enquête sur une plainte déposée en vertu de la présente loi, prendre connaissance de tout document auquel s'applique la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>There shall be an Information Commissioner,<ph x="3" type="1" /> to be appointed <bpt i="2" type="2" />by the Governor in Council<ept i="2" /> after approval by resolution of the <bpt i="3" type="3" x="1" />Senate and House of Commons<ept i="3" />.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Est institué le poste de Commissaire à l'information,<ph x="3" type="1" /> dont le titulaire est nommé par le gouverneur en conseil après approbation par résolution du <bpt i="2" type="3" x="1" />Sénat et de la Chambre des communes<ept i="2" />.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Information Commissioner<ept i="1" /> shall rank as and have all the powers of a deputy head of a department,<ph x="3" type="2" /> shall engage exclusively in the duties of the office of the Information Commissioner under this Act or any other Act of Parliament.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Le Commissaire à l'information<ept i="1" /> a rang et pouvoirs d'administrateur général de ministère;<ph x="3" type="2" /> il se consacre exclusivement aux fonctions de Commissaire à l'information que lui attribuent la présente loi ou toute autre loi fédérale.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Every person commits an offence who,<ph x="3" type="1" /> <bpt i="2" type="2" x="2" />without lawful excuse<ept i="2" />, obstructs <bpt i="3" type="3" x="1" />the Information Commissioner<ept i="3" /> or any person acting on behalf or under the direction of the Commissioner in the performance of the Commissioner's duties and functions under this Act.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Commet une infraction quiconque, <bpt i="1" type="2" x="2" />sans excuse légitime<ept i="1" />,<ph x="3" type="1" /> entrave l'action du <bpt i="3" type="3" x="1" />Commissaire à l'information<ept i="3" /> ou de toute personne agissant en son nom ou sous son autorité dans l'exercice des attributions que lui confère la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>This <bpt i="1" type="1" x="2" />Act is binding on<ept i="1" /> <bpt i="2" type="2" x="1" />Her Majesty<ept i="2" /><ph x="3" type="3" /> in right of Canada.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />La présente loi lie<ept i="1" /> <bpt i="2" type="2" x="1" />Sa Majesté<ept i="2" /><ph x="3" type="3" /> du chef du Canada.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg><bpt i="1" type="1" x="1" />The Governor in Council<ept i="1" /> may make regulations for<ph x="3" type="2" /> carrying the purposes and provisions of this Act into effect.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="1" />Le gouverneur en conseil<ept i="1" /> peut, par règlement, prendre<ph x="3" type="2" /> les mesures nécessaires à l'application de la présente loi.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>A <bpt i="1" type="1" x="1" />government institution<ept i="1" /> shall, within sixty days after the end of each <bpt i="2" type="2" x="2" />fiscal year<ept i="2" />,<ph x="3" type="3" /> prepare a report on the administration of this Part during that fiscal year and submit it to the designated Minister.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Chaque <bpt i="1" type="1" x="1" />institution fédérale<ept i="1" /> est tenue de préparer,<ph x="3" type="3" /> dans les soixante jours suivant la fin de chaque <bpt i="3" type="2" x="2" />exercice<ept i="3" />, un rapport sur l'administration de la présente partie au cours de cet exercice et de le soumettre au ministre désigné.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>Where a complaint is made to the <bpt i="1" type="1" x="2" />Information Commissioner<ept i="1" />,<ph x="3" type="2" /> the Commissioner shall give <bpt i="3" type="3" x="1" />the head of the government institution<ept i="3" /> an opportunity to make representations.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg>Dès qu'une plainte lui est soumise,<ph x="3" type="2" /> le <bpt i="2" type="1" x="2" />Commissaire à l'information<ept i="2" /> donne au <bpt i="3" type="3" x="1" />responsable de l'institution fédérale<ept i="3" /> visée la possibilité de lui présenter ses observations.</seg>
+      </tuv>
+    </tu>
+    <tu creationdate="20260325T230100Z" creationid="MACBOOK\xxxx" changedate="20260325T230100Z" changeid="MACBOOK\xxxx" lastusagedate="20260325T230100Z">
+      <prop type="x-LastUsedBy">MACBOOK\xxxx</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">Unknown</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-CA">
+        <seg>The <bpt i="1" type="1" x="2" />Federal Court<ept i="1" /> may,<ph x="3" type="2" /> on application, review any decision of <bpt i="3" type="3" x="1" />the head of a government institution<ept i="3" /> refusing access to a record requested under this Part.</seg>
+      </tuv>
+      <tuv xml:lang="fr-CA">
+        <seg><bpt i="1" type="1" x="2" />La Cour fédérale peut,<ept i="1" /> sur demande,<ph x="3" type="2" /> procéder à la révision des décisions du responsable d'<bpt i="3" type="3" x="1" />une institution fédérale<ept i="3" /> de refuser la communication d'un document demandé en vertu de la présente partie.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
