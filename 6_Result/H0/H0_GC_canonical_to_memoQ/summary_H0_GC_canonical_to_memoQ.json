@@ -1,0 +1,123 @@
+{
+  "mode": "H0",
+  "group": "GC",
+  "route": [
+    "canonical",
+    "memoQ"
+  ],
+  "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/0_Canonical TMX/GC_R1.tmx",
+  "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/1_H0&C0/memoQ/T1/GC_memoQ_T1.tmx",
+  "matching": {
+    "strategy_used": "hybrid",
+    "tuid_overlap_ratio": 0.99,
+    "matched_count": 99,
+    "unmatched_pre_indices": [
+      49
+    ],
+    "unmatched_post_indices": [],
+    "duplicate_fingerprints_pre": 1,
+    "duplicate_fingerprints_post": 0,
+    "confidence": "high",
+    "method_counts": {
+      "tuid": 99
+    },
+    "low_confidence_count": 0,
+    "pair_mapping_omitted_from_json_count": 99
+  },
+  "axis_scores": {
+    "A1_tu_count_retention": 99.0,
+    "A2_text_retention": 0.0,
+    "A2b_pure_text_retention": 6.06,
+    "A3_inline_tag_count_retention": 122.53,
+    "A3b_tag_introduction_ratio": 22.53,
+    "A4_inline_tag_type_retention": 25.87,
+    "A4b_inline_tag_type_multiset_retention": 74.27,
+    "A5_bpt_ept_pairing_retention": 198.91,
+    "A6_dom_nesting_retention": 0.0,
+    "A6b_dom_nesting_introduction_ratio": 0.0,
+    "A7_attribute_key_retention": 29.83,
+    "A8_attribute_value_retention": 11.33,
+    "A9a_header_field_presence_retention": 100.0,
+    "A9b_header_value_retention": 16.67,
+    "A10a_prop_type_retention": 100.0,
+    "A10a_strict_prop_type_retention_per_tu": 100.0,
+    "A10b_prop_value_retention": 100.0,
+    "A11a_language_strict_retention": 0.0,
+    "A11b_language_case_normalised_retention": 98.51,
+    "A12_tuid_retention": 99.0
+  },
+  "diagnostics": {
+    "tu_count_pre": 100,
+    "tu_count_post": 99,
+    "text_units_compared": 198,
+    "text_units_same": 0,
+    "pure_text_units_same": 12,
+    "tag_count_pre": 1500,
+    "tag_count_post": 1838,
+    "tag_types_pre": {
+      "bpt": 366,
+      "ept": 366,
+      "hi": 188,
+      "it": 192,
+      "ph": 194,
+      "sub": 194
+    },
+    "tag_types_post": {
+      "bpt": 728,
+      "ept": 728,
+      "it": 190,
+      "ph": 192
+    },
+    "tag_type_position_matched": 1488,
+    "tag_type_position_same": 385,
+    "bpt_ept_pairs_pre": 366,
+    "bpt_ept_pairs_post": 728,
+    "nested_tus_pre_matched": 96,
+    "nested_tus_preserved": 0,
+    "nested_tus_introduced_by_tool": 0,
+    "attribute_triples_pre_matched": 2974,
+    "attribute_keys_retained": 887,
+    "attribute_values_retained": 337,
+    "header_fields_lost": [],
+    "header_fields_added": [],
+    "header_fields_value_changed": [
+      "adminlang",
+      "creationtool",
+      "creationtoolversion",
+      "o-tmf",
+      "srclang"
+    ],
+    "prop_types_lost_global": [],
+    "prop_types_added_global": [
+      "aligned",
+      "client",
+      "corrected",
+      "domain",
+      "project",
+      "subject"
+    ],
+    "prop_instances_pre_matched": 297,
+    "tus_with_pre_props": 99,
+    "tus_retaining_all_pre_prop_types": 99,
+    "tuids_pre": 100,
+    "tuids_post": 99,
+    "tuids_lost_sample": [
+      "C-050"
+    ],
+    "tuids_added_sample": []
+  },
+  "detected_transformations": [
+    "language_code_case_normalised",
+    "tool_specific_props_added",
+    "inline_tags_expanded_or_reencoded",
+    "header_values_changed",
+    "duplicate_text_fingerprints_detected_matching_may_need_manual_check"
+  ],
+  "judgement": {
+    "level": "high first-pass structural degradation",
+    "content_layer_mean": 65.84,
+    "structure_layer_mean": 64.74,
+    "metadata_identifier_layer_mean": 83.13,
+    "rationale": "content-layer mean=65.84; structure-layer mean=64.74; metadata/identifier-layer mean=83.13; detected: language_code_case_normalised, tool_specific_props_added, inline_tags_expanded_or_reencoded, header_values_changed, duplicate_text_fingerprints_detected_matching_may_need_manual_check"
+  }
+}

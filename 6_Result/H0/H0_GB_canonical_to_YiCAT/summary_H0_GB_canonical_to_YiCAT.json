@@ -1,0 +1,155 @@
+{
+  "mode": "H0",
+  "group": "GB",
+  "route": [
+    "canonical",
+    "YiCAT"
+  ],
+  "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/0_Canonical TMX/GB_R1.tmx",
+  "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/1_H0&C0/YiCAT/T1/GB_YiCAT_T1.tmx",
+  "matching": {
+    "strategy_used": "hybrid",
+    "tuid_overlap_ratio": 0.0,
+    "matched_count": 99,
+    "unmatched_pre_indices": [
+      65
+    ],
+    "unmatched_post_indices": [],
+    "duplicate_fingerprints_pre": 1,
+    "duplicate_fingerprints_post": 0,
+    "confidence": "high",
+    "method_counts": {
+      "alignment_text_fingerprint": 98,
+      "sequence_similarity": 1
+    },
+    "low_confidence_count": 0,
+    "pair_mapping_omitted_from_json_count": 99
+  },
+  "axis_scores": {
+    "A1_tu_count_retention": 99.0,
+    "A2_text_retention": 15.15,
+    "A2b_pure_text_retention": 100.0,
+    "A3_inline_tag_count_retention": 98.82,
+    "A3b_tag_introduction_ratio": 0.0,
+    "A4_inline_tag_type_retention": 100.0,
+    "A4b_inline_tag_type_multiset_retention": 98.82,
+    "A5_bpt_ept_pairing_retention": 98.82,
+    "A6_dom_nesting_retention": null,
+    "A6b_dom_nesting_introduction_ratio": 0.0,
+    "A7_attribute_key_retention": 75.0,
+    "A8_attribute_value_retention": 75.0,
+    "A9a_header_field_presence_retention": 66.67,
+    "A9b_header_value_retention": 50.0,
+    "A10a_prop_type_retention": 0.0,
+    "A10a_strict_prop_type_retention_per_tu": 0.0,
+    "A10b_prop_value_retention": 0.0,
+    "A11a_language_strict_retention": 99.01,
+    "A11b_language_case_normalised_retention": 99.01,
+    "A12_tuid_retention": 0.0
+  },
+  "diagnostics": {
+    "tu_count_pre": 100,
+    "tu_count_post": 99,
+    "text_units_compared": 198,
+    "text_units_same": 30,
+    "pure_text_units_same": 198,
+    "tag_count_pre": 340,
+    "tag_count_post": 336,
+    "tag_types_pre": {
+      "bpt": 170,
+      "ept": 170
+    },
+    "tag_types_post": {
+      "bpt": 168,
+      "ept": 168
+    },
+    "tag_type_position_matched": 336,
+    "tag_type_position_same": 336,
+    "bpt_ept_pairs_pre": 170,
+    "bpt_ept_pairs_post": 168,
+    "nested_tus_pre_matched": 0,
+    "nested_tus_preserved": 0,
+    "nested_tus_introduced_by_tool": 0,
+    "attribute_triples_pre_matched": 672,
+    "attribute_keys_retained": 504,
+    "attribute_values_retained": 504,
+    "header_fields_lost": [
+      "creationtoolversion",
+      "o-tmf"
+    ],
+    "header_fields_added": [],
+    "header_fields_value_changed": [
+      "creationtool"
+    ],
+    "prop_types_lost_global": [
+      "x-source",
+      "x-tag-complexity",
+      "x-tmx-group"
+    ],
+    "prop_types_added_global": [],
+    "prop_instances_pre_matched": 297,
+    "tus_with_pre_props": 99,
+    "tus_retaining_all_pre_prop_types": 0,
+    "tuids_pre": 100,
+    "tuids_post": 99,
+    "tuids_lost_sample": [
+      "B-001",
+      "B-002",
+      "B-003",
+      "B-004",
+      "B-005",
+      "B-006",
+      "B-007",
+      "B-008",
+      "B-009",
+      "B-010",
+      "B-011",
+      "B-012",
+      "B-013",
+      "B-014",
+      "B-015",
+      "B-016",
+      "B-017",
+      "B-018",
+      "B-019",
+      "B-020"
+    ],
+    "tuids_added_sample": [
+      "-ATJKp4BFOP5uam1hhxZ",
+      "-QTJKp4BFOP5uam1hhxZ",
+      "-gTJKp4BFOP5uam1hhxZ",
+      "-wTJKp4BFOP5uam1hhxZ",
+      "0ATJKp4BFOP5uam1hhxZ",
+      "0QTJKp4BFOP5uam1hhxZ",
+      "0gTJKp4BFOP5uam1hhxZ",
+      "0wTJKp4BFOP5uam1hhxZ",
+      "1ATJKp4BFOP5uam1hhxZ",
+      "1QTJKp4BFOP5uam1hhxZ",
+      "1gTJKp4BFOP5uam1hhxZ",
+      "1wTJKp4BFOP5uam1hhxZ",
+      "2ATJKp4BFOP5uam1hhxZ",
+      "2QTJKp4BFOP5uam1hhxZ",
+      "2gTJKp4BFOP5uam1hhxZ",
+      "2wTJKp4BFOP5uam1hhxZ",
+      "3ATJKp4BFOP5uam1hhxZ",
+      "3QTJKp4BFOP5uam1hhxZ",
+      "3gTJKp4BFOP5uam1hhxZ",
+      "3wTJKp4BFOP5uam1hhxZ"
+    ]
+  },
+  "detected_transformations": [
+    "tuid_overlap_low_matching_fell_back_to_text_or_position",
+    "tuid_removed_or_reassigned",
+    "pre_existing_props_removed_or_replaced",
+    "header_values_changed",
+    "header_fields_lost",
+    "duplicate_text_fingerprints_detected_matching_may_need_manual_check"
+  ],
+  "judgement": {
+    "level": "high first-pass structural degradation",
+    "content_layer_mean": 71.05,
+    "structure_layer_mean": 89.53,
+    "metadata_identifier_layer_mean": 23.33,
+    "rationale": "content-layer mean=71.05; structure-layer mean=89.53; metadata/identifier-layer mean=23.33; detected: tuid_overlap_low_matching_fell_back_to_text_or_position, tuid_removed_or_reassigned, pre_existing_props_removed_or_replaced, header_values_changed, header_fields_lost, duplicate_text_fingerprints_detected_matching_may_need_manual_check"
+  }
+}

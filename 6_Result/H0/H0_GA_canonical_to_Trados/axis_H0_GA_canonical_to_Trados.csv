@@ -1,0 +1,21 @@
+axis,score,layer,note
+A1_tu_count_retention,99.0,content,
+A2_text_retention,100.0,content,
+A2b_pure_text_retention,100.0,content,
+A3_inline_tag_count_retention,,structure,
+A3b_tag_introduction_ratio,,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+A4_inline_tag_type_retention,,structure,
+A4b_inline_tag_type_multiset_retention,,structure,
+A5_bpt_ept_pairing_retention,,structure,
+A6_dom_nesting_retention,,structure,
+A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+A7_attribute_key_retention,,structure,Position-sensitive within matched TUs.
+A8_attribute_value_retention,,structure,Position-sensitive within matched TUs.
+A9a_header_field_presence_retention,100.0,metadata,
+A9b_header_value_retention,50.0,metadata,
+A10a_prop_type_retention,0.0,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+A10b_prop_value_retention,0.0,content,
+A11a_language_strict_retention,99.01,content,Byte/case-sensitive language comparison.
+A11b_language_case_normalised_retention,99.01,content,Language comparison after lowercasing language tags.
+A12_tuid_retention,0.0,content,
