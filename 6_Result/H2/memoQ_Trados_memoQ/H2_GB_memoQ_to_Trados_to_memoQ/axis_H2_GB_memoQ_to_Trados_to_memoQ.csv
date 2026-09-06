@@ -1,0 +1,61 @@
+comparison,axis,score,layer,note
+step1:memoQ->Trados,A1_tu_count_retention,100.0,content,
+step1:memoQ->Trados,A2_text_retention,15.15,content,
+step1:memoQ->Trados,A2b_pure_text_retention,100.0,content,
+step1:memoQ->Trados,A3_inline_tag_count_retention,100.0,structure,
+step1:memoQ->Trados,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step1:memoQ->Trados,A4_inline_tag_type_retention,100.0,structure,
+step1:memoQ->Trados,A4b_inline_tag_type_multiset_retention,100.0,structure,
+step1:memoQ->Trados,A5_bpt_ept_pairing_retention,100.0,structure,
+step1:memoQ->Trados,A6_dom_nesting_retention,,structure,
+step1:memoQ->Trados,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step1:memoQ->Trados,A7_attribute_key_retention,100.0,structure,Position-sensitive within matched TUs.
+step1:memoQ->Trados,A8_attribute_value_retention,100.0,structure,Position-sensitive within matched TUs.
+step1:memoQ->Trados,A9a_header_field_presence_retention,100.0,metadata,
+step1:memoQ->Trados,A9b_header_value_retention,16.67,metadata,
+step1:memoQ->Trados,A10a_prop_type_retention,0.0,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step1:memoQ->Trados,A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step1:memoQ->Trados,A10b_prop_value_retention,0.0,content,
+step1:memoQ->Trados,A11a_language_strict_retention,0.0,content,Byte/case-sensitive language comparison.
+step1:memoQ->Trados,A11b_language_case_normalised_retention,99.5,content,Language comparison after lowercasing language tags.
+step1:memoQ->Trados,A12_tuid_retention,0.0,content,
+step2:Trados->memoQ,A1_tu_count_retention,100.0,content,
+step2:Trados->memoQ,A2_text_retention,15.15,content,
+step2:Trados->memoQ,A2b_pure_text_retention,100.0,content,
+step2:Trados->memoQ,A3_inline_tag_count_retention,100.0,structure,
+step2:Trados->memoQ,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step2:Trados->memoQ,A4_inline_tag_type_retention,100.0,structure,
+step2:Trados->memoQ,A4b_inline_tag_type_multiset_retention,100.0,structure,
+step2:Trados->memoQ,A5_bpt_ept_pairing_retention,100.0,structure,
+step2:Trados->memoQ,A6_dom_nesting_retention,,structure,
+step2:Trados->memoQ,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step2:Trados->memoQ,A7_attribute_key_retention,66.67,structure,Position-sensitive within matched TUs.
+step2:Trados->memoQ,A8_attribute_value_retention,66.67,structure,Position-sensitive within matched TUs.
+step2:Trados->memoQ,A9a_header_field_presence_retention,100.0,metadata,
+step2:Trados->memoQ,A9b_header_value_retention,16.67,metadata,
+step2:Trados->memoQ,A10a_prop_type_retention,50.0,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step2:Trados->memoQ,A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step2:Trados->memoQ,A10b_prop_value_retention,50.0,content,
+step2:Trados->memoQ,A11a_language_strict_retention,0.0,content,Byte/case-sensitive language comparison.
+step2:Trados->memoQ,A11b_language_case_normalised_retention,99.5,content,Language comparison after lowercasing language tags.
+step2:Trados->memoQ,A12_tuid_retention,,content,
+end_to_end:memoQ->memoQ,A1_tu_count_retention,100.0,content,
+end_to_end:memoQ->memoQ,A2_text_retention,15.15,content,
+end_to_end:memoQ->memoQ,A2b_pure_text_retention,100.0,content,
+end_to_end:memoQ->memoQ,A3_inline_tag_count_retention,100.0,structure,
+end_to_end:memoQ->memoQ,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+end_to_end:memoQ->memoQ,A4_inline_tag_type_retention,100.0,structure,
+end_to_end:memoQ->memoQ,A4b_inline_tag_type_multiset_retention,100.0,structure,
+end_to_end:memoQ->memoQ,A5_bpt_ept_pairing_retention,100.0,structure,
+end_to_end:memoQ->memoQ,A6_dom_nesting_retention,,structure,
+end_to_end:memoQ->memoQ,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+end_to_end:memoQ->memoQ,A7_attribute_key_retention,100.0,structure,Position-sensitive within matched TUs.
+end_to_end:memoQ->memoQ,A8_attribute_value_retention,100.0,structure,Position-sensitive within matched TUs.
+end_to_end:memoQ->memoQ,A9a_header_field_presence_retention,100.0,metadata,
+end_to_end:memoQ->memoQ,A9b_header_value_retention,100.0,metadata,
+end_to_end:memoQ->memoQ,A10a_prop_type_retention,66.67,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+end_to_end:memoQ->memoQ,A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+end_to_end:memoQ->memoQ,A10b_prop_value_retention,66.67,content,
+end_to_end:memoQ->memoQ,A11a_language_strict_retention,100.0,content,Byte/case-sensitive language comparison.
+end_to_end:memoQ->memoQ,A11b_language_case_normalised_retention,100.0,content,Language comparison after lowercasing language tags.
+end_to_end:memoQ->memoQ,A12_tuid_retention,0.0,content,
