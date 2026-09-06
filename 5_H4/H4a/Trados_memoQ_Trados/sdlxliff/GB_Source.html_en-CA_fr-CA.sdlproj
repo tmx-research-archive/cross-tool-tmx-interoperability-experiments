@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="6eaef765-4872-4dff-80ec-44a5e506d547" SettingsBundleGuid="423f6069-e5a6-4816-9a93-6dc5d91b71bc" Version="4.0.0.0" Owner="MACBOOK\xxx" ProjectTemplateGuid="10004f3b-4acf-4425-a3e3-38d3b3514276" ReferenceProjectGuid="00000000-0000-0000-0000-000000000000">
+  <LanguageDirections>
+    <LanguageDirection Guid="817121b4-5dfc-4795-9227-8daf78bf36db" SettingsBundleGuid="4ddee925-f5d1-4922-8149-fdfe2e798a42" TargetLanguageCode="fr-CA" SourceLanguageCode="en-CA">
+      <AutoSuggestDictionaries />
+      <CascadeItem OverrideParent="false" StopSearchingWhenResultsFound="false" />
+    </LanguageDirection>
+  </LanguageDirections>
+  <TermbaseConfiguration>
+    <Termbases>
+      <Name>Practice termbase</Name>
+      <SettingsXml>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;TermbaseSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Path&gt;\\mac\Home\Documents\CMII0102 Folder\_TBs\Practice termbase.sdltb&lt;/Path&gt;
+  &lt;IsOpen&gt;false&lt;/IsOpen&gt;
+  &lt;Filter&gt;0&lt;/Filter&gt;
+  &lt;FilterHighlight&gt;false&lt;/FilterHighlight&gt;
+  &lt;Layout&gt;0&lt;/Layout&gt;
+  &lt;Local&gt;true&lt;/Local&gt;
+  &lt;IsCustom&gt;false&lt;/IsCustom&gt;
+  &lt;Fields /&gt;
+&lt;/TermbaseSettings&gt;</SettingsXml>
+      <Enabled>true</Enabled>
+    </Termbases>
+    <LanguageIndexMappings>
+      <Language>en-US</Language>
+      <Index>English (United States)</Index>
+    </LanguageIndexMappings>
+    <LanguageIndexMappings>
+      <Language>zh-CN</Language>
+      <Index>Chinese (Simplified, China)</Index>
+    </LanguageIndexMappings>
+    <RecognitionOptions>
+      <ShowWithNoAvailableTranslation>false</ShowWithNoAvailableTranslation>
+      <MinimumMatchValue>70</MinimumMatchValue>
+      <SearchDepth>200</SearchDepth>
+      <SearchOrder>Parallel</SearchOrder>
+    </RecognitionOptions>
+  </TermbaseConfiguration>
+  <SettingsBundles>
+    <SettingsBundle Guid="423f6069-e5a6-4816-9a93-6dc5d91b71bc">
+      <SettingsBundle>
+        <SettingsGroup Id="TerminologyProviderSettings">
+          <Setting Id="TermbasesOrder">
+            <ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+              <string>Practice termbase</string>
+            </ArrayOfstring>
+          </Setting>
+          <Setting Id="Termbases">
+            <ArrayOfTermbase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi.Implementation.Xml">
+            </ArrayOfTermbase>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="FilesView">
+          <Setting Id="SelectedTargetLanguageCode">fr-CA</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="ImportFromReviewTaskSettings">
+          <Setting Id="ListReviewItems">
+            <ArrayOfExternalReviewMappingItem xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi.Settings">
+            </ArrayOfExternalReviewMappingItem>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="RetrofitSettings">
+          <Setting Id="RetrofitFileMappingItems">
+            <ArrayOfRetrofitFileMappingItem xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi.Settings">
+            </ArrayOfRetrofitFileMappingItem>
+          </Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+  </SettingsBundles>
+  <AnalysisBands>
+    <AnalysisBand MinimumMatchValue="50" />
+    <AnalysisBand MinimumMatchValue="75" />
+    <AnalysisBand MinimumMatchValue="85" />
+    <AnalysisBand MinimumMatchValue="95" />
+  </AnalysisBands>
+  <ManualTaskTemplates />
+  <Users>
+    <User UserId="MACBOOK\xxx" FullName="MACBOOK\xxx" Description="" Email="xxx@xxx.xxx" PhoneNumber="" EmailType="Smtp" />
+  </Users>
+  <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false">
+    <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+      <MainTranslationProviderItem Uri="sdltm.file://Mac/Home/Documents/Dissertation/Experiment/5_H4/H4b/sdltm/H4b_GB_memoQ_Trados_Post_TM.sdltm" Enabled="true" />
+    </CascadeEntryItem>
+  </CascadeItem>
+  <GeneralProjectInfo IsInPlace="true" IsImported="false" Name="GB_Source.html_en-CA_fr-CA" CreatedAt="2026-07-16T15:59:09.800129Z" StartedAt="2026-07-16T15:59:09.8323719Z" Status="Started" CreatedBy="MACBOOK\xxx" />
+  <SourceLanguageCode>en-CA</SourceLanguageCode>
+  <ProjectFiles>
+    <ProjectFile Guid="f133c1c5-d43f-41e2-9967-722579332e36" Path="" Role="Translatable" Name="GB_Source.html" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="Html 5 2.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="cd20b489-110d-4c2b-8281-6585a91a2c06" SettingsBundleGuid="21f30ae2-8acc-4e28-be7a-dbacd1f7f753" LanguageCode="en-CA">
+          <FileVersions>
+            <FileVersion Guid="809c6b57-d23c-4f74-8824-ff3113f54bfc" VersionNumber="1" Size="38824" FileName="GB_Source.html" PhysicalPath="GB_Source.html" CreatedBy="MACBOOK\xxx" CreatedAt="2026-07-16T15:59:09.8323719Z" FileTimeStamp="2026-06-08T12:46:13.4204729Z" IsAutoUpload="false" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="dd987455-42c5-44e5-893f-28d32cc0e1e2" SettingsBundleGuid="ce01bb5a-2702-491f-9c1d-695188622654" LanguageCode="fr-CA">
+          <FileVersions>
+            <FileVersion Guid="bf89c411-a0da-4759-9ed2-98efcecffa9d" VersionNumber="2" Size="38824" FileName="GB_Source.html" PhysicalPath="GB_Source.html" CreatedBy="MACBOOK\xxx" CreatedAt="2026-07-16T15:59:09.8480467Z" FileTimeStamp="2026-06-08T12:46:13.4204729Z" IsAutoUpload="false" />
+            <FileVersion Guid="1f2872ef-37bb-4281-a62b-e024e3f7c410" VersionNumber="3" Size="295672" FileName="GB_Source.html_en-CA_fr-CA.sdlxliff" PhysicalPath="GB_Source.html_en-CA_fr-CA.sdlxliff" Comment="" CreatedBy="MACBOOK\xxx" CreatedAt="2026-07-16T16:07:05.2223269Z" FileTimeStamp="2026-07-16T16:07:05.137502Z" IsAutoUpload="false" />
+          </FileVersions>
+          <AnalysisStatistics WordCountFileTimeStamp="2026-07-16T16:09:35.5909768Z" WordCountStatus="Complete" AnalysisFileTimeStamp="2026-07-16T16:09:35.5909768Z" AnalysisStatus="Complete">
+            <Total Words="5946" Characters="29111" Segments="100" Placeables="283" Tags="168" />
+            <Repetitions Words="31" Characters="177" Segments="1" Placeables="2" Tags="2" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="952" Characters="4616" Segments="16" Placeables="25" Tags="2" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="4963" Characters="24318" Segments="83" Placeables="256" Tags="164" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2026-07-16T16:09:35.5909768Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="4" Characters="21" Segments="1" Placeables="2" Tags="0" />
+            <Translated Words="5942" Characters="29090" Segments="99" Placeables="282" Tags="168" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+  </ProjectFiles>
+  <Tasks>
+    <AutomaticTask Guid="30f39779-5d36-400c-86e0-c7fd21899a6d" PercentComplete="100" Status="Completed" CreatedAt="2026-07-16T16:07:10.8447229Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" CreatedBy="MACBOOK\xxx" CompletedAt="2026-07-16T16:07:12.2666201Z" StartedAt="2026-07-16T16:07:10.8609085Z">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="2ba941c7-fb7d-417c-b7f2-9c4bf9662dab" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports />
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="50651f0f-25c1-476f-b85c-b0417b77246e" PercentComplete="100" Status="Completed" CreatedAt="2026-07-16T16:09:40.5410817Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" CreatedBy="MACBOOK\xxx" CompletedAt="2026-07-16T16:09:42.1039391Z" StartedAt="2026-07-16T16:09:40.557186Z">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="478d876d-a448-4ed8-8b55-e31ec892a971" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="c3f612c0-a7ad-40ab-a83a-fa0b31a6c741" Name="Analyze Files Report" Description="Statistics showing the expected leverage from applying the translation memories." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="817121b4-5dfc-4795-9227-8daf78bf36db" PhysicalPath="Reports\Analyze Files en-CA_fr-CA(1).xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+    <AutomaticTask Guid="f884f297-ee87-477b-8789-0558efcd7775" PercentComplete="100" Status="Completed" CreatedAt="2026-07-18T13:56:00.2237051Z" PredecessorTaskGuid="00000000-0000-0000-0000-000000000000" CreatedBy="MACBOOK\xxx" CompletedAt="2026-07-18T13:56:02.7545187Z" StartedAt="2026-07-18T13:56:00.2550186Z">
+      <TaskTemplateIds>
+        <TaskTemplateId>Sdl.ProjectApi.AutomaticTasks.Analysis</TaskTemplateId>
+      </TaskTemplateIds>
+      <Files>
+        <TaskFile Guid="8611e106-8cd8-440a-a3a8-5a204cb0cba3" Completed="true" ParentTaskFileGuid="00000000-0000-0000-0000-000000000000" LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile">
+          <Result Guid="00000000-0000-0000-0000-000000000000" />
+        </TaskFile>
+      </Files>
+      <OutputFiles>
+        <OutputFile LanguageFileGuid="dd987455-42c5-44e5-893f-28d32cc0e1e2" Purpose="WorkFile" />
+      </OutputFiles>
+      <Reports>
+        <Report Guid="39ef0d8b-62ca-411a-b50b-b502602193ce" Name="Analyze Files Report" Description="Statistics showing the expected leverage from applying the translation memories." TaskTemplateId="Sdl.ProjectApi.AutomaticTasks.Analysis" LanguageDirectionGuid="817121b4-5dfc-4795-9227-8daf78bf36db" PhysicalPath="Reports\Analyze Files en-CA_fr-CA.xml" />
+      </Reports>
+      <Parameters />
+      <Result Guid="00000000-0000-0000-0000-000000000000" />
+    </AutomaticTask>
+  </Tasks>
+  <PackageOperations>
+    <ProjectPackageCreationOperations />
+    <ProjectPackageImportOperations />
+    <ReturnPackageCreationOperations />
+    <ReturnPackageImportOperations />
+  </PackageOperations>
+</Project>
