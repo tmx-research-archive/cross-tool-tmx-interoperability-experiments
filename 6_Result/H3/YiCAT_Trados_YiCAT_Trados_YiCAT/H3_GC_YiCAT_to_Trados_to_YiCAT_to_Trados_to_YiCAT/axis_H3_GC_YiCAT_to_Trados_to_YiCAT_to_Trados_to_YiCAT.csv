@@ -1,0 +1,101 @@
+comparison,axis,score,layer,note
+step1:YiCAT->Trados,A1_tu_count_retention,86.87,content,
+step1:YiCAT->Trados,A2_text_retention,100.0,content,
+step1:YiCAT->Trados,A2b_pure_text_retention,100.0,content,
+step1:YiCAT->Trados,A3_inline_tag_count_retention,86.74,structure,
+step1:YiCAT->Trados,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step1:YiCAT->Trados,A4_inline_tag_type_retention,100.0,structure,
+step1:YiCAT->Trados,A4b_inline_tag_type_multiset_retention,86.74,structure,
+step1:YiCAT->Trados,A5_bpt_ept_pairing_retention,87.29,structure,
+step1:YiCAT->Trados,A6_dom_nesting_retention,,structure,
+step1:YiCAT->Trados,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step1:YiCAT->Trados,A7_attribute_key_retention,99.82,structure,Position-sensitive within matched TUs.
+step1:YiCAT->Trados,A8_attribute_value_retention,99.82,structure,Position-sensitive within matched TUs.
+step1:YiCAT->Trados,A9a_header_field_presence_retention,100.0,metadata,
+step1:YiCAT->Trados,A9b_header_value_retention,75.0,metadata,
+step1:YiCAT->Trados,A10a_prop_type_retention,,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step1:YiCAT->Trados,A10a_strict_prop_type_retention_per_tu,,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step1:YiCAT->Trados,A10b_prop_value_retention,,content,
+step1:YiCAT->Trados,A11a_language_strict_retention,87.0,content,Byte/case-sensitive language comparison.
+step1:YiCAT->Trados,A11b_language_case_normalised_retention,87.0,content,Language comparison after lowercasing language tags.
+step1:YiCAT->Trados,A12_tuid_retention,0.0,content,
+step2:Trados->YiCAT,A1_tu_count_retention,100.0,content,
+step2:Trados->YiCAT,A2_text_retention,100.0,content,
+step2:Trados->YiCAT,A2b_pure_text_retention,100.0,content,
+step2:Trados->YiCAT,A3_inline_tag_count_retention,100.0,structure,
+step2:Trados->YiCAT,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step2:Trados->YiCAT,A4_inline_tag_type_retention,100.0,structure,
+step2:Trados->YiCAT,A4b_inline_tag_type_multiset_retention,100.0,structure,
+step2:Trados->YiCAT,A5_bpt_ept_pairing_retention,100.0,structure,
+step2:Trados->YiCAT,A6_dom_nesting_retention,,structure,
+step2:Trados->YiCAT,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step2:Trados->YiCAT,A7_attribute_key_retention,69.76,structure,Position-sensitive within matched TUs.
+step2:Trados->YiCAT,A8_attribute_value_retention,69.76,structure,Position-sensitive within matched TUs.
+step2:Trados->YiCAT,A9a_header_field_presence_retention,66.67,metadata,
+step2:Trados->YiCAT,A9b_header_value_retention,50.0,metadata,
+step2:Trados->YiCAT,A10a_prop_type_retention,0.0,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step2:Trados->YiCAT,A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step2:Trados->YiCAT,A10b_prop_value_retention,0.0,content,
+step2:Trados->YiCAT,A11a_language_strict_retention,100.0,content,Byte/case-sensitive language comparison.
+step2:Trados->YiCAT,A11b_language_case_normalised_retention,100.0,content,Language comparison after lowercasing language tags.
+step2:Trados->YiCAT,A12_tuid_retention,,content,
+step3:YiCAT->Trados,A1_tu_count_retention,100.0,content,
+step3:YiCAT->Trados,A2_text_retention,100.0,content,
+step3:YiCAT->Trados,A2b_pure_text_retention,100.0,content,
+step3:YiCAT->Trados,A3_inline_tag_count_retention,100.0,structure,
+step3:YiCAT->Trados,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step3:YiCAT->Trados,A4_inline_tag_type_retention,100.0,structure,
+step3:YiCAT->Trados,A4b_inline_tag_type_multiset_retention,100.0,structure,
+step3:YiCAT->Trados,A5_bpt_ept_pairing_retention,100.0,structure,
+step3:YiCAT->Trados,A6_dom_nesting_retention,,structure,
+step3:YiCAT->Trados,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step3:YiCAT->Trados,A7_attribute_key_retention,99.82,structure,Position-sensitive within matched TUs.
+step3:YiCAT->Trados,A8_attribute_value_retention,99.82,structure,Position-sensitive within matched TUs.
+step3:YiCAT->Trados,A9a_header_field_presence_retention,100.0,metadata,
+step3:YiCAT->Trados,A9b_header_value_retention,75.0,metadata,
+step3:YiCAT->Trados,A10a_prop_type_retention,,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step3:YiCAT->Trados,A10a_strict_prop_type_retention_per_tu,,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step3:YiCAT->Trados,A10b_prop_value_retention,,content,
+step3:YiCAT->Trados,A11a_language_strict_retention,100.0,content,Byte/case-sensitive language comparison.
+step3:YiCAT->Trados,A11b_language_case_normalised_retention,100.0,content,Language comparison after lowercasing language tags.
+step3:YiCAT->Trados,A12_tuid_retention,0.0,content,
+step4:Trados->YiCAT,A1_tu_count_retention,100.0,content,
+step4:Trados->YiCAT,A2_text_retention,100.0,content,
+step4:Trados->YiCAT,A2b_pure_text_retention,100.0,content,
+step4:Trados->YiCAT,A3_inline_tag_count_retention,100.0,structure,
+step4:Trados->YiCAT,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+step4:Trados->YiCAT,A4_inline_tag_type_retention,100.0,structure,
+step4:Trados->YiCAT,A4b_inline_tag_type_multiset_retention,100.0,structure,
+step4:Trados->YiCAT,A5_bpt_ept_pairing_retention,100.0,structure,
+step4:Trados->YiCAT,A6_dom_nesting_retention,,structure,
+step4:Trados->YiCAT,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+step4:Trados->YiCAT,A7_attribute_key_retention,69.76,structure,Position-sensitive within matched TUs.
+step4:Trados->YiCAT,A8_attribute_value_retention,69.76,structure,Position-sensitive within matched TUs.
+step4:Trados->YiCAT,A9a_header_field_presence_retention,66.67,metadata,
+step4:Trados->YiCAT,A9b_header_value_retention,50.0,metadata,
+step4:Trados->YiCAT,A10a_prop_type_retention,0.0,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+step4:Trados->YiCAT,A10a_strict_prop_type_retention_per_tu,0.0,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+step4:Trados->YiCAT,A10b_prop_value_retention,0.0,content,
+step4:Trados->YiCAT,A11a_language_strict_retention,100.0,content,Byte/case-sensitive language comparison.
+step4:Trados->YiCAT,A11b_language_case_normalised_retention,100.0,content,Language comparison after lowercasing language tags.
+step4:Trados->YiCAT,A12_tuid_retention,,content,
+end_to_end:YiCAT->YiCAT,A1_tu_count_retention,86.87,content,
+end_to_end:YiCAT->YiCAT,A2_text_retention,100.0,content,
+end_to_end:YiCAT->YiCAT,A2b_pure_text_retention,100.0,content,
+end_to_end:YiCAT->YiCAT,A3_inline_tag_count_retention,86.74,structure,
+end_to_end:YiCAT->YiCAT,A3b_tag_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means tag expansion/introduction.
+end_to_end:YiCAT->YiCAT,A4_inline_tag_type_retention,100.0,structure,
+end_to_end:YiCAT->YiCAT,A4b_inline_tag_type_multiset_retention,86.74,structure,
+end_to_end:YiCAT->YiCAT,A5_bpt_ept_pairing_retention,87.29,structure,
+end_to_end:YiCAT->YiCAT,A6_dom_nesting_retention,,structure,
+end_to_end:YiCAT->YiCAT,A6b_dom_nesting_introduction_ratio,0.0,structure,Inverted diagnostic: lower is better; high value means artificial nesting introduced by the tool.
+end_to_end:YiCAT->YiCAT,A7_attribute_key_retention,100.0,structure,Position-sensitive within matched TUs.
+end_to_end:YiCAT->YiCAT,A8_attribute_value_retention,100.0,structure,Position-sensitive within matched TUs.
+end_to_end:YiCAT->YiCAT,A9a_header_field_presence_retention,100.0,metadata,
+end_to_end:YiCAT->YiCAT,A9b_header_value_retention,100.0,metadata,
+end_to_end:YiCAT->YiCAT,A10a_prop_type_retention,,content,Per-instance soft score (headline radar axis). See A10a_strict for the all-or-nothing per-TU reading.
+end_to_end:YiCAT->YiCAT,A10a_strict_prop_type_retention_per_tu,,content,Per-TU all-or-nothing diagnostic: a TU counts as retained only if every pre prop type is present in the post TU.
+end_to_end:YiCAT->YiCAT,A10b_prop_value_retention,,content,
+end_to_end:YiCAT->YiCAT,A11a_language_strict_retention,87.0,content,Byte/case-sensitive language comparison.
+end_to_end:YiCAT->YiCAT,A11b_language_case_normalised_retention,87.0,content,Language comparison after lowercasing language tags.
+end_to_end:YiCAT->YiCAT,A12_tuid_retention,0.0,content,

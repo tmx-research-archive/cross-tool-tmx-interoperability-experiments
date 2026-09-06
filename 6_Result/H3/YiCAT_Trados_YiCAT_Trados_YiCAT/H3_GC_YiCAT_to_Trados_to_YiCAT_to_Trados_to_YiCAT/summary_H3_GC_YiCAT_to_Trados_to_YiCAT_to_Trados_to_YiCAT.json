@@ -1,0 +1,726 @@
+{
+  "mode": "H3",
+  "group": "GC",
+  "route": [
+    "YiCAT",
+    "Trados",
+    "YiCAT",
+    "Trados",
+    "YiCAT"
+  ],
+  "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/01_pre_GC_YiCAT_T1.tmx",
+  "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/05_GC_YiCAT_Trados_YiCAT_Trados_YiCAT_H3.tmx",
+  "step_results": [
+    {
+      "mode": "H3",
+      "group": "GC",
+      "route": [
+        "YiCAT",
+        "Trados"
+      ],
+      "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/01_pre_GC_YiCAT_T1.tmx",
+      "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/02_mid_GC_YiCAT_to_Trados_H1.tmx",
+      "matching": {
+        "strategy_used": "hybrid",
+        "tuid_overlap_ratio": 0.0,
+        "matched_count": 86,
+        "unmatched_pre_indices": [
+          39,
+          40,
+          43,
+          44,
+          50,
+          55,
+          63,
+          83,
+          88,
+          89,
+          93,
+          96,
+          97
+        ],
+        "unmatched_post_indices": [],
+        "duplicate_fingerprints_pre": 0,
+        "duplicate_fingerprints_post": 0,
+        "confidence": "medium",
+        "method_counts": {
+          "alignment_text_fingerprint": 86
+        },
+        "low_confidence_count": 0,
+        "pair_mapping_omitted_from_json_count": 86
+      },
+      "axis_scores": {
+        "A1_tu_count_retention": 86.87,
+        "A2_text_retention": 100.0,
+        "A2b_pure_text_retention": 100.0,
+        "A3_inline_tag_count_retention": 86.74,
+        "A3b_tag_introduction_ratio": 0.0,
+        "A4_inline_tag_type_retention": 100.0,
+        "A4b_inline_tag_type_multiset_retention": 86.74,
+        "A5_bpt_ept_pairing_retention": 87.29,
+        "A6_dom_nesting_retention": null,
+        "A6b_dom_nesting_introduction_ratio": 0.0,
+        "A7_attribute_key_retention": 99.82,
+        "A8_attribute_value_retention": 99.82,
+        "A9a_header_field_presence_retention": 100.0,
+        "A9b_header_value_retention": 75.0,
+        "A10a_prop_type_retention": null,
+        "A10a_strict_prop_type_retention_per_tu": null,
+        "A10b_prop_value_retention": null,
+        "A11a_language_strict_retention": 87.0,
+        "A11b_language_case_normalised_retention": 87.0,
+        "A12_tuid_retention": 0.0
+      },
+      "diagnostics": {
+        "tu_count_pre": 99,
+        "tu_count_post": 86,
+        "text_units_compared": 172,
+        "text_units_same": 172,
+        "pure_text_units_same": 172,
+        "tag_count_pre": 920,
+        "tag_count_post": 798,
+        "tag_types_pre": {
+          "bpt": 364,
+          "ept": 364,
+          "ph": 192
+        },
+        "tag_types_post": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_type_position_matched": 798,
+        "tag_type_position_same": 798,
+        "bpt_ept_pairs_pre": 362,
+        "bpt_ept_pairs_post": 316,
+        "nested_tus_pre_matched": 0,
+        "nested_tus_preserved": 0,
+        "nested_tus_introduced_by_tool": 0,
+        "attribute_triples_pre_matched": 1114,
+        "attribute_keys_retained": 1112,
+        "attribute_values_retained": 1112,
+        "header_fields_lost": [],
+        "header_fields_added": [
+          "creationtoolversion",
+          "o-tmf"
+        ],
+        "header_fields_value_changed": [
+          "creationtool"
+        ],
+        "prop_types_lost_global": [],
+        "prop_types_added_global": [
+          "x-ConfirmationLevel",
+          "x-LastUsedBy",
+          "x-Origin",
+          "x-OriginalFormat"
+        ],
+        "prop_instances_pre_matched": 0,
+        "tus_with_pre_props": 0,
+        "tus_retaining_all_pre_prop_types": 0,
+        "tuids_pre": 99,
+        "tuids_post": 0,
+        "tuids_lost_sample": [
+          "-BvOKp4BfLc99Jc43qd8",
+          "-RvOKp4BfLc99Jc43qd8",
+          "-hvOKp4BfLc99Jc43qd8",
+          "-xvOKp4BfLc99Jc43qd8",
+          "0hvOKp4BfLc99Jc43qd8",
+          "0xvOKp4BfLc99Jc43qd8",
+          "1BvOKp4BfLc99Jc43qd8",
+          "1RvOKp4BfLc99Jc43qd8",
+          "1hvOKp4BfLc99Jc43qd8",
+          "1xvOKp4BfLc99Jc43qd8",
+          "2BvOKp4BfLc99Jc43qd8",
+          "2RvOKp4BfLc99Jc43qd8",
+          "2hvOKp4BfLc99Jc43qd8",
+          "2xvOKp4BfLc99Jc43qd8",
+          "3BvOKp4BfLc99Jc43qd8",
+          "3RvOKp4BfLc99Jc43qd8",
+          "3hvOKp4BfLc99Jc43qd8",
+          "3xvOKp4BfLc99Jc43qd8",
+          "4BvOKp4BfLc99Jc43qd8",
+          "4RvOKp4BfLc99Jc43qd8"
+        ],
+        "tuids_added_sample": []
+      },
+      "detected_transformations": [
+        "tuid_overlap_low_matching_fell_back_to_text_or_position",
+        "tuid_removed_or_reassigned",
+        "tool_specific_props_added",
+        "inline_tags_compressed_or_deleted",
+        "header_values_changed",
+        "header_fields_added"
+      ],
+      "judgement": {
+        "level": "unstable route segment",
+        "content_layer_mean": 91.29,
+        "structure_layer_mean": 94.73,
+        "metadata_identifier_layer_mean": 58.33,
+        "rationale": "content-layer mean=91.29; structure-layer mean=94.73; metadata/identifier-layer mean=58.33; detected: tuid_overlap_low_matching_fell_back_to_text_or_position, tuid_removed_or_reassigned, tool_specific_props_added, inline_tags_compressed_or_deleted, header_values_changed, header_fields_added; matching confidence=medium; inspect per-TU CSV if needed"
+      }
+    },
+    {
+      "mode": "H3",
+      "group": "GC",
+      "route": [
+        "Trados",
+        "YiCAT"
+      ],
+      "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/02_mid_GC_YiCAT_to_Trados_H1.tmx",
+      "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/03_post_GC_YiCAT_Trados_YiCAT_H2.tmx",
+      "matching": {
+        "strategy_used": "hybrid",
+        "tuid_overlap_ratio": null,
+        "matched_count": 86,
+        "unmatched_pre_indices": [],
+        "unmatched_post_indices": [],
+        "duplicate_fingerprints_pre": 0,
+        "duplicate_fingerprints_post": 0,
+        "confidence": "high",
+        "method_counts": {
+          "alignment_text_fingerprint": 86
+        },
+        "low_confidence_count": 0,
+        "pair_mapping_omitted_from_json_count": 86
+      },
+      "axis_scores": {
+        "A1_tu_count_retention": 100.0,
+        "A2_text_retention": 100.0,
+        "A2b_pure_text_retention": 100.0,
+        "A3_inline_tag_count_retention": 100.0,
+        "A3b_tag_introduction_ratio": 0.0,
+        "A4_inline_tag_type_retention": 100.0,
+        "A4b_inline_tag_type_multiset_retention": 100.0,
+        "A5_bpt_ept_pairing_retention": 100.0,
+        "A6_dom_nesting_retention": null,
+        "A6b_dom_nesting_introduction_ratio": 0.0,
+        "A7_attribute_key_retention": 69.76,
+        "A8_attribute_value_retention": 69.76,
+        "A9a_header_field_presence_retention": 66.67,
+        "A9b_header_value_retention": 50.0,
+        "A10a_prop_type_retention": 0.0,
+        "A10a_strict_prop_type_retention_per_tu": 0.0,
+        "A10b_prop_value_retention": 0.0,
+        "A11a_language_strict_retention": 100.0,
+        "A11b_language_case_normalised_retention": 100.0,
+        "A12_tuid_retention": null
+      },
+      "diagnostics": {
+        "tu_count_pre": 86,
+        "tu_count_post": 86,
+        "text_units_compared": 172,
+        "text_units_same": 172,
+        "pure_text_units_same": 172,
+        "tag_count_pre": 798,
+        "tag_count_post": 798,
+        "tag_types_pre": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_types_post": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_type_position_matched": 798,
+        "tag_type_position_same": 798,
+        "bpt_ept_pairs_pre": 316,
+        "bpt_ept_pairs_post": 316,
+        "nested_tus_pre_matched": 0,
+        "nested_tus_preserved": 0,
+        "nested_tus_introduced_by_tool": 0,
+        "attribute_triples_pre_matched": 1594,
+        "attribute_keys_retained": 1112,
+        "attribute_values_retained": 1112,
+        "header_fields_lost": [
+          "creationtoolversion",
+          "o-tmf"
+        ],
+        "header_fields_added": [],
+        "header_fields_value_changed": [
+          "creationtool"
+        ],
+        "prop_types_lost_global": [
+          "x-ConfirmationLevel",
+          "x-LastUsedBy",
+          "x-Origin",
+          "x-OriginalFormat"
+        ],
+        "prop_types_added_global": [],
+        "prop_instances_pre_matched": 344,
+        "tus_with_pre_props": 86,
+        "tus_retaining_all_pre_prop_types": 0,
+        "tuids_pre": 0,
+        "tuids_post": 86,
+        "tuids_lost_sample": [],
+        "tuids_added_sample": [
+          "-AZ-N54BFOP5uam1ynUJ",
+          "-QZ-N54BFOP5uam1ynUJ",
+          "-gZ-N54BFOP5uam1ynUJ",
+          "-wZ-N54BFOP5uam1ynUJ",
+          "1wZ-N54BFOP5uam1ynUJ",
+          "2AZ-N54BFOP5uam1ynUJ",
+          "2QZ-N54BFOP5uam1ynUJ",
+          "2gZ-N54BFOP5uam1ynUJ",
+          "2wZ-N54BFOP5uam1ynUJ",
+          "3AZ-N54BFOP5uam1ynUJ",
+          "3QZ-N54BFOP5uam1ynUJ",
+          "3gZ-N54BFOP5uam1ynUJ",
+          "3wZ-N54BFOP5uam1ynUJ",
+          "4AZ-N54BFOP5uam1ynUJ",
+          "4QZ-N54BFOP5uam1ynUJ",
+          "4gZ-N54BFOP5uam1ynUJ",
+          "4wZ-N54BFOP5uam1ynUJ",
+          "5AZ-N54BFOP5uam1ynUJ",
+          "5QZ-N54BFOP5uam1ynUJ",
+          "5gZ-N54BFOP5uam1ynUJ"
+        ]
+      },
+      "detected_transformations": [
+        "pre_existing_props_removed_or_replaced",
+        "header_values_changed",
+        "header_fields_lost"
+      ],
+      "judgement": {
+        "level": "unstable route segment",
+        "content_layer_mean": 100.0,
+        "structure_layer_mean": 87.9,
+        "metadata_identifier_layer_mean": 29.17,
+        "rationale": "content-layer mean=100.0; structure-layer mean=87.9; metadata/identifier-layer mean=29.17; detected: pre_existing_props_removed_or_replaced, header_values_changed, header_fields_lost"
+      }
+    },
+    {
+      "mode": "H3",
+      "group": "GC",
+      "route": [
+        "YiCAT",
+        "Trados"
+      ],
+      "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/03_post_GC_YiCAT_Trados_YiCAT_H2.tmx",
+      "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/04_GC_YiCAT_Trados_YiCAT_Trados_H3.tmx",
+      "matching": {
+        "strategy_used": "hybrid",
+        "tuid_overlap_ratio": 0.0,
+        "matched_count": 86,
+        "unmatched_pre_indices": [],
+        "unmatched_post_indices": [],
+        "duplicate_fingerprints_pre": 0,
+        "duplicate_fingerprints_post": 0,
+        "confidence": "high",
+        "method_counts": {
+          "alignment_text_fingerprint": 86
+        },
+        "low_confidence_count": 0,
+        "pair_mapping_omitted_from_json_count": 86
+      },
+      "axis_scores": {
+        "A1_tu_count_retention": 100.0,
+        "A2_text_retention": 100.0,
+        "A2b_pure_text_retention": 100.0,
+        "A3_inline_tag_count_retention": 100.0,
+        "A3b_tag_introduction_ratio": 0.0,
+        "A4_inline_tag_type_retention": 100.0,
+        "A4b_inline_tag_type_multiset_retention": 100.0,
+        "A5_bpt_ept_pairing_retention": 100.0,
+        "A6_dom_nesting_retention": null,
+        "A6b_dom_nesting_introduction_ratio": 0.0,
+        "A7_attribute_key_retention": 99.82,
+        "A8_attribute_value_retention": 99.82,
+        "A9a_header_field_presence_retention": 100.0,
+        "A9b_header_value_retention": 75.0,
+        "A10a_prop_type_retention": null,
+        "A10a_strict_prop_type_retention_per_tu": null,
+        "A10b_prop_value_retention": null,
+        "A11a_language_strict_retention": 100.0,
+        "A11b_language_case_normalised_retention": 100.0,
+        "A12_tuid_retention": 0.0
+      },
+      "diagnostics": {
+        "tu_count_pre": 86,
+        "tu_count_post": 86,
+        "text_units_compared": 172,
+        "text_units_same": 172,
+        "pure_text_units_same": 172,
+        "tag_count_pre": 798,
+        "tag_count_post": 798,
+        "tag_types_pre": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_types_post": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_type_position_matched": 798,
+        "tag_type_position_same": 798,
+        "bpt_ept_pairs_pre": 316,
+        "bpt_ept_pairs_post": 316,
+        "nested_tus_pre_matched": 0,
+        "nested_tus_preserved": 0,
+        "nested_tus_introduced_by_tool": 0,
+        "attribute_triples_pre_matched": 1114,
+        "attribute_keys_retained": 1112,
+        "attribute_values_retained": 1112,
+        "header_fields_lost": [],
+        "header_fields_added": [
+          "creationtoolversion",
+          "o-tmf"
+        ],
+        "header_fields_value_changed": [
+          "creationtool"
+        ],
+        "prop_types_lost_global": [],
+        "prop_types_added_global": [
+          "x-ConfirmationLevel",
+          "x-LastUsedBy",
+          "x-Origin",
+          "x-OriginalFormat"
+        ],
+        "prop_instances_pre_matched": 0,
+        "tus_with_pre_props": 0,
+        "tus_retaining_all_pre_prop_types": 0,
+        "tuids_pre": 86,
+        "tuids_post": 0,
+        "tuids_lost_sample": [
+          "-AZ-N54BFOP5uam1ynUJ",
+          "-QZ-N54BFOP5uam1ynUJ",
+          "-gZ-N54BFOP5uam1ynUJ",
+          "-wZ-N54BFOP5uam1ynUJ",
+          "1wZ-N54BFOP5uam1ynUJ",
+          "2AZ-N54BFOP5uam1ynUJ",
+          "2QZ-N54BFOP5uam1ynUJ",
+          "2gZ-N54BFOP5uam1ynUJ",
+          "2wZ-N54BFOP5uam1ynUJ",
+          "3AZ-N54BFOP5uam1ynUJ",
+          "3QZ-N54BFOP5uam1ynUJ",
+          "3gZ-N54BFOP5uam1ynUJ",
+          "3wZ-N54BFOP5uam1ynUJ",
+          "4AZ-N54BFOP5uam1ynUJ",
+          "4QZ-N54BFOP5uam1ynUJ",
+          "4gZ-N54BFOP5uam1ynUJ",
+          "4wZ-N54BFOP5uam1ynUJ",
+          "5AZ-N54BFOP5uam1ynUJ",
+          "5QZ-N54BFOP5uam1ynUJ",
+          "5gZ-N54BFOP5uam1ynUJ"
+        ],
+        "tuids_added_sample": []
+      },
+      "detected_transformations": [
+        "tuid_overlap_low_matching_fell_back_to_text_or_position",
+        "tuid_removed_or_reassigned",
+        "tool_specific_props_added",
+        "header_values_changed",
+        "header_fields_added"
+      ],
+      "judgement": {
+        "level": "partially stable route segment",
+        "content_layer_mean": 100.0,
+        "structure_layer_mean": 99.93,
+        "metadata_identifier_layer_mean": 58.33,
+        "rationale": "content-layer mean=100.0; structure-layer mean=99.93; metadata/identifier-layer mean=58.33; detected: tuid_overlap_low_matching_fell_back_to_text_or_position, tuid_removed_or_reassigned, tool_specific_props_added, header_values_changed, header_fields_added"
+      }
+    },
+    {
+      "mode": "H3",
+      "group": "GC",
+      "route": [
+        "Trados",
+        "YiCAT"
+      ],
+      "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/04_GC_YiCAT_Trados_YiCAT_Trados_H3.tmx",
+      "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/05_GC_YiCAT_Trados_YiCAT_Trados_YiCAT_H3.tmx",
+      "matching": {
+        "strategy_used": "hybrid",
+        "tuid_overlap_ratio": null,
+        "matched_count": 86,
+        "unmatched_pre_indices": [],
+        "unmatched_post_indices": [],
+        "duplicate_fingerprints_pre": 0,
+        "duplicate_fingerprints_post": 0,
+        "confidence": "high",
+        "method_counts": {
+          "alignment_text_fingerprint": 86
+        },
+        "low_confidence_count": 0,
+        "pair_mapping_omitted_from_json_count": 86
+      },
+      "axis_scores": {
+        "A1_tu_count_retention": 100.0,
+        "A2_text_retention": 100.0,
+        "A2b_pure_text_retention": 100.0,
+        "A3_inline_tag_count_retention": 100.0,
+        "A3b_tag_introduction_ratio": 0.0,
+        "A4_inline_tag_type_retention": 100.0,
+        "A4b_inline_tag_type_multiset_retention": 100.0,
+        "A5_bpt_ept_pairing_retention": 100.0,
+        "A6_dom_nesting_retention": null,
+        "A6b_dom_nesting_introduction_ratio": 0.0,
+        "A7_attribute_key_retention": 69.76,
+        "A8_attribute_value_retention": 69.76,
+        "A9a_header_field_presence_retention": 66.67,
+        "A9b_header_value_retention": 50.0,
+        "A10a_prop_type_retention": 0.0,
+        "A10a_strict_prop_type_retention_per_tu": 0.0,
+        "A10b_prop_value_retention": 0.0,
+        "A11a_language_strict_retention": 100.0,
+        "A11b_language_case_normalised_retention": 100.0,
+        "A12_tuid_retention": null
+      },
+      "diagnostics": {
+        "tu_count_pre": 86,
+        "tu_count_post": 86,
+        "text_units_compared": 172,
+        "text_units_same": 172,
+        "pure_text_units_same": 172,
+        "tag_count_pre": 798,
+        "tag_count_post": 798,
+        "tag_types_pre": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_types_post": {
+          "bpt": 316,
+          "ept": 316,
+          "ph": 166
+        },
+        "tag_type_position_matched": 798,
+        "tag_type_position_same": 798,
+        "bpt_ept_pairs_pre": 316,
+        "bpt_ept_pairs_post": 316,
+        "nested_tus_pre_matched": 0,
+        "nested_tus_preserved": 0,
+        "nested_tus_introduced_by_tool": 0,
+        "attribute_triples_pre_matched": 1594,
+        "attribute_keys_retained": 1112,
+        "attribute_values_retained": 1112,
+        "header_fields_lost": [
+          "creationtoolversion",
+          "o-tmf"
+        ],
+        "header_fields_added": [],
+        "header_fields_value_changed": [
+          "creationtool"
+        ],
+        "prop_types_lost_global": [
+          "x-ConfirmationLevel",
+          "x-LastUsedBy",
+          "x-Origin",
+          "x-OriginalFormat"
+        ],
+        "prop_types_added_global": [],
+        "prop_instances_pre_matched": 344,
+        "tus_with_pre_props": 86,
+        "tus_retaining_all_pre_prop_types": 0,
+        "tuids_pre": 0,
+        "tuids_post": 86,
+        "tuids_lost_sample": [],
+        "tuids_added_sample": [
+          "-AarN54BFOP5uam1oHfo",
+          "-QarN54BFOP5uam1oHfo",
+          "-garN54BFOP5uam1oHfo",
+          "-warN54BFOP5uam1oHfo",
+          "4AarN54BFOP5uam1oHfo",
+          "4QarN54BFOP5uam1oHfo",
+          "4garN54BFOP5uam1oHfo",
+          "4warN54BFOP5uam1oHfo",
+          "5AarN54BFOP5uam1oHfo",
+          "5QarN54BFOP5uam1oHfo",
+          "5garN54BFOP5uam1oHfo",
+          "5warN54BFOP5uam1oHfo",
+          "6AarN54BFOP5uam1oHfo",
+          "6QarN54BFOP5uam1oHfo",
+          "6garN54BFOP5uam1oHfo",
+          "6warN54BFOP5uam1oHfo",
+          "7AarN54BFOP5uam1oHfo",
+          "7QarN54BFOP5uam1oHfo",
+          "7garN54BFOP5uam1oHfo",
+          "7warN54BFOP5uam1oHfo"
+        ]
+      },
+      "detected_transformations": [
+        "pre_existing_props_removed_or_replaced",
+        "header_values_changed",
+        "header_fields_lost"
+      ],
+      "judgement": {
+        "level": "unstable route segment",
+        "content_layer_mean": 100.0,
+        "structure_layer_mean": 87.9,
+        "metadata_identifier_layer_mean": 29.17,
+        "rationale": "content-layer mean=100.0; structure-layer mean=87.9; metadata/identifier-layer mean=29.17; detected: pre_existing_props_removed_or_replaced, header_values_changed, header_fields_lost"
+      }
+    }
+  ],
+  "end_to_end": {
+    "mode": "H3",
+    "group": "GC",
+    "route": [
+      "YiCAT",
+      "YiCAT"
+    ],
+    "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/01_pre_GC_YiCAT_T1.tmx",
+    "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/4_H3/YiCAT_Trados_YiCAT_Trados_YiCAT/GC/05_GC_YiCAT_Trados_YiCAT_Trados_YiCAT_H3.tmx",
+    "matching": {
+      "strategy_used": "hybrid",
+      "tuid_overlap_ratio": 0.0,
+      "matched_count": 86,
+      "unmatched_pre_indices": [
+        39,
+        40,
+        43,
+        44,
+        50,
+        55,
+        63,
+        83,
+        88,
+        89,
+        93,
+        96,
+        97
+      ],
+      "unmatched_post_indices": [],
+      "duplicate_fingerprints_pre": 0,
+      "duplicate_fingerprints_post": 0,
+      "confidence": "medium",
+      "method_counts": {
+        "alignment_text_fingerprint": 86
+      },
+      "low_confidence_count": 0,
+      "pair_mapping_omitted_from_json_count": 86
+    },
+    "axis_scores": {
+      "A1_tu_count_retention": 86.87,
+      "A2_text_retention": 100.0,
+      "A2b_pure_text_retention": 100.0,
+      "A3_inline_tag_count_retention": 86.74,
+      "A3b_tag_introduction_ratio": 0.0,
+      "A4_inline_tag_type_retention": 100.0,
+      "A4b_inline_tag_type_multiset_retention": 86.74,
+      "A5_bpt_ept_pairing_retention": 87.29,
+      "A6_dom_nesting_retention": null,
+      "A6b_dom_nesting_introduction_ratio": 0.0,
+      "A7_attribute_key_retention": 100.0,
+      "A8_attribute_value_retention": 100.0,
+      "A9a_header_field_presence_retention": 100.0,
+      "A9b_header_value_retention": 100.0,
+      "A10a_prop_type_retention": null,
+      "A10a_strict_prop_type_retention_per_tu": null,
+      "A10b_prop_value_retention": null,
+      "A11a_language_strict_retention": 87.0,
+      "A11b_language_case_normalised_retention": 87.0,
+      "A12_tuid_retention": 0.0
+    },
+    "diagnostics": {
+      "tu_count_pre": 99,
+      "tu_count_post": 86,
+      "text_units_compared": 172,
+      "text_units_same": 172,
+      "pure_text_units_same": 172,
+      "tag_count_pre": 920,
+      "tag_count_post": 798,
+      "tag_types_pre": {
+        "bpt": 364,
+        "ept": 364,
+        "ph": 192
+      },
+      "tag_types_post": {
+        "bpt": 316,
+        "ept": 316,
+        "ph": 166
+      },
+      "tag_type_position_matched": 798,
+      "tag_type_position_same": 798,
+      "bpt_ept_pairs_pre": 362,
+      "bpt_ept_pairs_post": 316,
+      "nested_tus_pre_matched": 0,
+      "nested_tus_preserved": 0,
+      "nested_tus_introduced_by_tool": 0,
+      "attribute_triples_pre_matched": 1114,
+      "attribute_keys_retained": 1114,
+      "attribute_values_retained": 1114,
+      "header_fields_lost": [],
+      "header_fields_added": [],
+      "header_fields_value_changed": [],
+      "prop_types_lost_global": [],
+      "prop_types_added_global": [],
+      "prop_instances_pre_matched": 0,
+      "tus_with_pre_props": 0,
+      "tus_retaining_all_pre_prop_types": 0,
+      "tuids_pre": 99,
+      "tuids_post": 86,
+      "tuids_lost_sample": [
+        "-BvOKp4BfLc99Jc43qd8",
+        "-RvOKp4BfLc99Jc43qd8",
+        "-hvOKp4BfLc99Jc43qd8",
+        "-xvOKp4BfLc99Jc43qd8",
+        "0hvOKp4BfLc99Jc43qd8",
+        "0xvOKp4BfLc99Jc43qd8",
+        "1BvOKp4BfLc99Jc43qd8",
+        "1RvOKp4BfLc99Jc43qd8",
+        "1hvOKp4BfLc99Jc43qd8",
+        "1xvOKp4BfLc99Jc43qd8",
+        "2BvOKp4BfLc99Jc43qd8",
+        "2RvOKp4BfLc99Jc43qd8",
+        "2hvOKp4BfLc99Jc43qd8",
+        "2xvOKp4BfLc99Jc43qd8",
+        "3BvOKp4BfLc99Jc43qd8",
+        "3RvOKp4BfLc99Jc43qd8",
+        "3hvOKp4BfLc99Jc43qd8",
+        "3xvOKp4BfLc99Jc43qd8",
+        "4BvOKp4BfLc99Jc43qd8",
+        "4RvOKp4BfLc99Jc43qd8"
+      ],
+      "tuids_added_sample": [
+        "-AarN54BFOP5uam1oHfo",
+        "-QarN54BFOP5uam1oHfo",
+        "-garN54BFOP5uam1oHfo",
+        "-warN54BFOP5uam1oHfo",
+        "4AarN54BFOP5uam1oHfo",
+        "4QarN54BFOP5uam1oHfo",
+        "4garN54BFOP5uam1oHfo",
+        "4warN54BFOP5uam1oHfo",
+        "5AarN54BFOP5uam1oHfo",
+        "5QarN54BFOP5uam1oHfo",
+        "5garN54BFOP5uam1oHfo",
+        "5warN54BFOP5uam1oHfo",
+        "6AarN54BFOP5uam1oHfo",
+        "6QarN54BFOP5uam1oHfo",
+        "6garN54BFOP5uam1oHfo",
+        "6warN54BFOP5uam1oHfo",
+        "7AarN54BFOP5uam1oHfo",
+        "7QarN54BFOP5uam1oHfo",
+        "7garN54BFOP5uam1oHfo",
+        "7warN54BFOP5uam1oHfo"
+      ]
+    },
+    "detected_transformations": [
+      "tuid_overlap_low_matching_fell_back_to_text_or_position",
+      "tuid_removed_or_reassigned",
+      "inline_tags_compressed_or_deleted"
+    ],
+    "judgement": {
+      "level": "unstable route segment",
+      "content_layer_mean": 91.29,
+      "structure_layer_mean": 94.81,
+      "metadata_identifier_layer_mean": 66.67,
+      "rationale": "content-layer mean=91.29; structure-layer mean=94.81; metadata/identifier-layer mean=66.67; detected: tuid_overlap_low_matching_fell_back_to_text_or_position, tuid_removed_or_reassigned, inline_tags_compressed_or_deleted; matching confidence=medium; inspect per-TU CSV if needed"
+    }
+  },
+  "judgement": {
+    "level": "multi-hop preliminary",
+    "step_levels": [
+      "unstable route segment",
+      "unstable route segment",
+      "partially stable route segment",
+      "unstable route segment"
+    ],
+    "worst_step_index_1_based": 2,
+    "note": "H2/H3 advanced recoverability and oscillation logic is not fully implemented in this version; use stepwise and end-to-end scores for interpretation.",
+    "end_to_end_level": "unstable route segment"
+  }
+}
