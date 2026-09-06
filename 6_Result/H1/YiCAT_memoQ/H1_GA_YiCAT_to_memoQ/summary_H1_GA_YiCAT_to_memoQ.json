@@ -1,0 +1,107 @@
+{
+  "mode": "H1",
+  "group": "GA",
+  "route": [
+    "YiCAT",
+    "memoQ"
+  ],
+  "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/1_H0&C0/YiCAT/T1/GA_YiCAT_T1.tmx",
+  "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/2_H1/YiCAT_to_memoQ/GA_YiCAT_to_memoQ_H1.tmx",
+  "matching": {
+    "strategy_used": "hybrid",
+    "tuid_overlap_ratio": 1.0,
+    "matched_count": 99,
+    "unmatched_pre_indices": [],
+    "unmatched_post_indices": [],
+    "duplicate_fingerprints_pre": 0,
+    "duplicate_fingerprints_post": 0,
+    "confidence": "high",
+    "method_counts": {
+      "tuid": 99
+    },
+    "low_confidence_count": 0,
+    "pair_mapping_omitted_from_json_count": 99
+  },
+  "axis_scores": {
+    "A1_tu_count_retention": 100.0,
+    "A2_text_retention": 100.0,
+    "A2b_pure_text_retention": 100.0,
+    "A3_inline_tag_count_retention": null,
+    "A3b_tag_introduction_ratio": null,
+    "A4_inline_tag_type_retention": null,
+    "A4b_inline_tag_type_multiset_retention": null,
+    "A5_bpt_ept_pairing_retention": null,
+    "A6_dom_nesting_retention": null,
+    "A6b_dom_nesting_introduction_ratio": 0.0,
+    "A7_attribute_key_retention": null,
+    "A8_attribute_value_retention": null,
+    "A9a_header_field_presence_retention": 100.0,
+    "A9b_header_value_retention": 25.0,
+    "A10a_prop_type_retention": null,
+    "A10a_strict_prop_type_retention_per_tu": null,
+    "A10b_prop_value_retention": null,
+    "A11a_language_strict_retention": 0.0,
+    "A11b_language_case_normalised_retention": 99.5,
+    "A12_tuid_retention": 100.0
+  },
+  "diagnostics": {
+    "tu_count_pre": 99,
+    "tu_count_post": 99,
+    "text_units_compared": 198,
+    "text_units_same": 198,
+    "pure_text_units_same": 198,
+    "tag_count_pre": 0,
+    "tag_count_post": 0,
+    "tag_types_pre": {},
+    "tag_types_post": {},
+    "tag_type_position_matched": 0,
+    "tag_type_position_same": 0,
+    "bpt_ept_pairs_pre": 0,
+    "bpt_ept_pairs_post": 0,
+    "nested_tus_pre_matched": 0,
+    "nested_tus_preserved": 0,
+    "nested_tus_introduced_by_tool": 0,
+    "attribute_triples_pre_matched": 0,
+    "attribute_keys_retained": 0,
+    "attribute_values_retained": 0,
+    "header_fields_lost": [],
+    "header_fields_added": [
+      "creationtoolversion",
+      "o-tmf"
+    ],
+    "header_fields_value_changed": [
+      "adminlang",
+      "creationtool",
+      "srclang"
+    ],
+    "prop_types_lost_global": [],
+    "prop_types_added_global": [
+      "aligned",
+      "client",
+      "corrected",
+      "domain",
+      "project",
+      "subject"
+    ],
+    "prop_instances_pre_matched": 0,
+    "tus_with_pre_props": 0,
+    "tus_retaining_all_pre_prop_types": 0,
+    "tuids_pre": 99,
+    "tuids_post": 99,
+    "tuids_lost_sample": [],
+    "tuids_added_sample": []
+  },
+  "detected_transformations": [
+    "language_code_case_normalised",
+    "tool_specific_props_added",
+    "header_values_changed",
+    "header_fields_added"
+  ],
+  "judgement": {
+    "level": "partial interoperability",
+    "content_layer_mean": 99.83,
+    "structure_layer_mean": null,
+    "metadata_identifier_layer_mean": 75.0,
+    "rationale": "content-layer mean=99.83; metadata/identifier-layer mean=75.0; detected: language_code_case_normalised, tool_specific_props_added, header_values_changed, header_fields_added"
+  }
+}

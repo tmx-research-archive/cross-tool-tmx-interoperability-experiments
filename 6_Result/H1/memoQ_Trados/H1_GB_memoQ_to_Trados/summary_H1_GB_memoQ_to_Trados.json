@@ -1,0 +1,143 @@
+{
+  "mode": "H1",
+  "group": "GB",
+  "route": [
+    "memoQ",
+    "Trados"
+  ],
+  "pre_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/1_H0&C0/memoQ/T1/GB_memoQ_T1_Trados-compatible.tmx",
+  "post_path": "/Users/xxx/Documents/Codex/2026-07-21/referenced-chatgpt-conversation-this-is-untrusted/work/tu_matching_audit/experiment/Experiment/2_H1/memoQ_to_Trados/GB_memoQ_to_Trados_H1.tmx",
+  "matching": {
+    "strategy_used": "hybrid",
+    "tuid_overlap_ratio": 0.0,
+    "matched_count": 99,
+    "unmatched_pre_indices": [],
+    "unmatched_post_indices": [],
+    "duplicate_fingerprints_pre": 0,
+    "duplicate_fingerprints_post": 0,
+    "confidence": "high",
+    "method_counts": {
+      "alignment_text_fingerprint": 99
+    },
+    "low_confidence_count": 0,
+    "pair_mapping_omitted_from_json_count": 99
+  },
+  "axis_scores": {
+    "A1_tu_count_retention": 100.0,
+    "A2_text_retention": 15.15,
+    "A2b_pure_text_retention": 100.0,
+    "A3_inline_tag_count_retention": 100.0,
+    "A3b_tag_introduction_ratio": 0.0,
+    "A4_inline_tag_type_retention": 100.0,
+    "A4b_inline_tag_type_multiset_retention": 100.0,
+    "A5_bpt_ept_pairing_retention": 100.0,
+    "A6_dom_nesting_retention": null,
+    "A6b_dom_nesting_introduction_ratio": 0.0,
+    "A7_attribute_key_retention": 100.0,
+    "A8_attribute_value_retention": 100.0,
+    "A9a_header_field_presence_retention": 100.0,
+    "A9b_header_value_retention": 16.67,
+    "A10a_prop_type_retention": 0.0,
+    "A10a_strict_prop_type_retention_per_tu": 0.0,
+    "A10b_prop_value_retention": 0.0,
+    "A11a_language_strict_retention": 0.0,
+    "A11b_language_case_normalised_retention": 99.5,
+    "A12_tuid_retention": 0.0
+  },
+  "diagnostics": {
+    "tu_count_pre": 99,
+    "tu_count_post": 99,
+    "text_units_compared": 198,
+    "text_units_same": 30,
+    "pure_text_units_same": 198,
+    "tag_count_pre": 336,
+    "tag_count_post": 336,
+    "tag_types_pre": {
+      "bpt": 168,
+      "ept": 168
+    },
+    "tag_types_post": {
+      "bpt": 168,
+      "ept": 168
+    },
+    "tag_type_position_matched": 336,
+    "tag_type_position_same": 336,
+    "bpt_ept_pairs_pre": 168,
+    "bpt_ept_pairs_post": 168,
+    "nested_tus_pre_matched": 0,
+    "nested_tus_preserved": 0,
+    "nested_tus_introduced_by_tool": 0,
+    "attribute_triples_pre_matched": 336,
+    "attribute_keys_retained": 336,
+    "attribute_values_retained": 336,
+    "header_fields_lost": [],
+    "header_fields_added": [],
+    "header_fields_value_changed": [
+      "adminlang",
+      "creationtool",
+      "creationtoolversion",
+      "o-tmf",
+      "srclang"
+    ],
+    "prop_types_lost_global": [
+      "aligned",
+      "client",
+      "corrected",
+      "domain",
+      "project",
+      "subject",
+      "x-source",
+      "x-tag-complexity",
+      "x-tmx-group"
+    ],
+    "prop_types_added_global": [
+      "x-ConfirmationLevel",
+      "x-LastUsedBy",
+      "x-Origin",
+      "x-OriginalFormat"
+    ],
+    "prop_instances_pre_matched": 891,
+    "tus_with_pre_props": 99,
+    "tus_retaining_all_pre_prop_types": 0,
+    "tuids_pre": 99,
+    "tuids_post": 0,
+    "tuids_lost_sample": [
+      "B-001",
+      "B-002",
+      "B-003",
+      "B-004",
+      "B-005",
+      "B-006",
+      "B-007",
+      "B-008",
+      "B-009",
+      "B-010",
+      "B-011",
+      "B-012",
+      "B-013",
+      "B-014",
+      "B-015",
+      "B-016",
+      "B-017",
+      "B-018",
+      "B-019",
+      "B-020"
+    ],
+    "tuids_added_sample": []
+  },
+  "detected_transformations": [
+    "tuid_overlap_low_matching_fell_back_to_text_or_position",
+    "tuid_removed_or_reassigned",
+    "language_code_case_normalised",
+    "tool_specific_props_added",
+    "pre_existing_props_removed_or_replaced",
+    "header_values_changed"
+  ],
+  "judgement": {
+    "level": "poor interoperability",
+    "content_layer_mean": 71.55,
+    "structure_layer_mean": 100.0,
+    "metadata_identifier_layer_mean": 23.33,
+    "rationale": "content-layer mean=71.55; structure-layer mean=100.0; metadata/identifier-layer mean=23.33; detected: tuid_overlap_low_matching_fell_back_to_text_or_position, tuid_removed_or_reassigned, language_code_case_normalised, tool_specific_props_added, pre_existing_props_removed_or_replaced, header_values_changed"
+  }
+}
